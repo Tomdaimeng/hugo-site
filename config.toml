@@ -35,7 +35,7 @@ hasCJKLanguage = true
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
 [permalinks]
-    post = "/:year/:month/:day/:slug"
+    post = ":sections/:year/:filename"
 
 [params]
   # Color theme.
