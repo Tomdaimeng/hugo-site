@@ -36,7 +36,7 @@ weight = 5
 ...to my new website! Congratulation to be one of the five visitors of
 this month.
 
-I rewrote the site with hugo/Rblogdown. It does look fancier, but I
+I rewrote the site with hugo. It does look fancier, but I
 still miss the plain look of the old site.
 
 

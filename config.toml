@@ -260,10 +260,10 @@ hasCJKLanguage = true
   languageCode = "en-us"
   languageName = "English"
   name = "WANG Guansong"
-  role = "Data Analyst"
+  role = "Self Employed Lab Staff"
   title = "WANG GUANSONG"
   copyright = "&copy; 2018 WANG Guansong"
-  organizations = [ { name = "Yooli.com", url = "//www.yooli.com" } ]
+  organizations = [ { name = "Chaos Labs", url = "//chaos-labs.tech" } ]
   address = "Zhongguancun Beijing, China"
 [[Languages.en.menu.main]]
   name = "Home"
@@ -294,10 +294,10 @@ hasCJKLanguage = true
   languageCode = "zh-hans"
   languageName = "简体中文"
   name = "王冠嵩"
-  role = "数据分析"
+  role = "自由职业"
   title = "王冠嵩"
   copyright = "&copy; 2018 王冠嵩"
-  organizations = [ { name = "有利网", url = "//www.yooli.com" } ]
+  organizations = [ { name = "混沌实验室", url = "//chaos-labs.tech" } ]
   address = "北京中关村"
 [[Languages.zh.menu.main]]
   name = "首页"
