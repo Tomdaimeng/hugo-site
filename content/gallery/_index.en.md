@@ -14,3 +14,4 @@ caption = ""
 
 +++
 
+{{% shinyapp "http://guansong.wang/shiny/gallery/?lang=en" %}}
