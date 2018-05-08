@@ -275,7 +275,7 @@ hasCJKLanguage = true
   weight = 2
 [[Languages.en.menu.main]]
   name = "Gallery"
-  url = "../shiny/gallery/"
+  url = "/gallery/"
   weight = 3
 #[[Languages.en.menu.main]]
 #  name = "Projects"
@@ -309,7 +309,7 @@ hasCJKLanguage = true
   weight = 2
 [[Languages.zh.menu.main]]
   name = "相册"
-  url = "../shiny/gallery/"
+  url = "/gallery/"
   weight = 3
 #[[Languages.zh.menu.main]]
 #  name = "项目"

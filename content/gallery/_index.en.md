@@ -14,4 +14,4 @@ caption = ""
 
 +++
 
-{{% shinyapp "http://guansong.wang/shiny/gallery/?lang=en" %}}
+{{% shinyapp "http://guansong.wang/shiny/butters/gallery/?lang=en" %}}
