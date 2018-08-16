@@ -32,7 +32,7 @@ Here I'm going to keep records of my progress and favorite quotes.
 ------
 
 
-## A Storm of Swords: 2017-11-04 ~ 2018
+## A Storm of Swords: 2017-11-04 ~ 2018-08-15
 
 > His father had spent his life grubbing in other men's fields and
 > collecting leeches. He'd strip down bare but for a thick leather
@@ -114,6 +114,92 @@ Here I'm going to keep records of my progress and favorite quotes.
 > she bit your member off."<br/>
 > "Only half. And half me member is twice as long as any other man's."
 > Tormund snorted.
+
+> Jaime had decided that he would return Sansa, and the younger girl as
+> well if she could be found. It was not like to win him back his lost
+> honor, but the notion of keeping faith when they all expected betrayal
+> amused him more than he could say.<br/>
+> (Men are just children.)
+
+> "It's not music he hates," said Lem. "It's you, fool."<br/>
+> "Well, he has no cause. The wench was willing to make a man of him, is
+> it my fault he drank too much to do the deed?"<br/>
+> Lem snorted through his broken nose. "Was it you who made a song of
+> it, or some other bloody arse in love with his own voice?"<br/>
+> "I only sang it the once," Tom complained. "And who's to say the song
+> was about him? 'Twas a song about a fish."<br/>
+> "A floppy fish," said Anguy, laughing.<br/>
+> (A dirty joke.)
+
+> I dreamt of a roaring river and a woman that was a fish. Dead she
+> drifted, with red tears on her cheeks, but when her eyes did open, oh,
+> I woke from the terror.<br/>
+> (So it might be Nymeria who drag Lady Stoneheart out of water.)
+
+> There is a savage beast in every man, and when you hand that man a
+> sword or spear and send him forth to war, the beast stirs. The scent
+> of blood is all it takes to wake him.<br/>
+> (Jorah Mormont to Daenerys.)
+
+> "Rhaegar fought valiantly, Rhaegar fought noble, Rhaegar fought
+> honorably. And Rhaegar died."<br/>
+> (Jorah Mormont to Daenerys.)
+
+> If this is so wrong, he wondered, why did the gods make it feel so
+> good?<br/>
+> (Jon felt about laying with Ygritte in the cave.) 
+
+> In the Seven Kingdoms it was said that the Wall marked the end of the
+> world. That is true for them as well. It was all in where you stood.
+> And where do I stand?<br/>
+> (Jon had doubt on his identity.)
+
+> Sometimes I think everyone is just pretending to be brave, and none of
+> us really are. Maybe pretending is how you get brave, I don't know.<br/>
+> (Grenn to Samwell, about people calling him "slayer".)
+
+> "Be careful how you bark, dog. We hold your life in our hands."<br/>
+> "Best wipe the shit off your fingers, then." The Hound laughed.<br/>
+> (Did the Hound mean his life was shit, or "Don't hold my life with
+> your shitty hands"?)
+
+> Life would be much simpler if men could fuck themselves, don't you
+> agree.<br/>
+> (Tyrion to Bronn.)
+
+> In battle a captain's lungs were as important as his sword arm.<br/>
+> (Eddard Stark once told Jon.)
+
+> There are old sellswords and bold sellswords, but no old bold
+> sellswords.<br/>
+> (Brown Ben to Daenerys.)
+
+> He's me, Jaime realized suddenly. I am speaking to myself, as I was,
+> all cocksure arrogance and empty chivalry. This is what it does to
+> you, to be too good too young.<br/>
+> (Jaime felt about Loras Tyrell.)
+
+> "I wish I had enough poison for you all. You make me sorry that I am
+> not the monster you would have me be, yet there it is."<br/>
+> (Tyrion's rant on his trial.)
+
+> It all goes back and back, Tyrion thought, to our mothers and fathers
+> and theirs before them. We are puppets dancing on the strings of those
+> who came before us, and one day our own children will take up our
+> strings and dance on in our steads.
+
+> "You fought us hard here." Tormund turned his garron back toward the
+> wildling camp. "You and your brothers. I give you that. Two hundred
+> dead, and a dozen giants. Mag himself went in that gate o' yours and
+> never did come out."<br/>
+> "He died on the sword of a brave man named Donal Noye."<br/>
+> "Aye? Some great lord was he, this Donal Noye? One of your shiny
+> knights in their steel smallclothes?"<br/>
+> "A blacksmith. He only had one arm."<br/>
+> (Jon met Tormund after the battle.)
+
+> "Well, the hottest fires burn out quickest."<br/>
+> (Surprisingly poetic words from Tormund, commenting on Ygritte's death.)
 
 ## A Clash of Kings: 2017-05-21 ~ 2017-11-04
 
