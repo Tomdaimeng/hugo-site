@@ -1,6 +1,6 @@
 +++
 date = 2017-04-23
-lastmod = 2018-02-17
+lastmod = 2018-08-15
 draft = false
 tags = ["2017", "2018", "reading"]
 title = "Re-reading A Song of Ice and Fire"
