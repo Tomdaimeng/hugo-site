@@ -1,12 +1,22 @@
 +++
-date = 2015-08-21
-# lastmod = 2017-09-03
-draft = false
-tags = ["2015", "空气质量指数"]
 title = "AQI数据搜集整理"
 summary = """
 收集并清理从2008年到2014年中国五个城市（美国使馆所在城市：北京，上海，广州，沈阳，成都）的每小时空气指数（AQI）。
 """
+date = 2015-08-21
+# lastmod = 2017-09-03
+draft = false
+
+authors = []
+
+tags = ["2015", "空气质量指数"]
+categories = []
+
+[header]
+image = ""
+caption = ""
+preview = true
+
 +++
 
 收集并清理从2008年到2014年中国五个城市（美国使馆所在城市：北京，上海，广州，沈阳，成都）的每小时空气指数（AQI）。

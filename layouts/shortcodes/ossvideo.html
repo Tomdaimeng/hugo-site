@@ -1,6 +1,0 @@
-{{ $video := printf "%s" (.Get "src") }}
-{{ $video_type := substr (.Get "src") -1 3 }}
-
-<video {{if (.Get "controls")}}controls{{else}}autoplay loop{{end}}>
-  <source src="{{ $video }}" type="video/{{$video_type}}">
-</video>

@@ -1,12 +1,22 @@
 +++
-date = 2015-08-21
-# lastmod = 2017-09-03
-draft = false
-tags = ["2015", "aqi"]
 title = "Collecting and Cleansing AQI Data"
 summary = """
 Collect and cleanse hourly AQI of five cities of China （where U.S. embassy locations: Beijing, Shanghai, Guangzhou, Shenyang, Chengdu) from 2008 to 2014.
 """
+
+date = 2015-08-21T11:36:35+08:00
+# lastmod = 2017-09-03
+draft = false
+
+authors = []
+
+tags = ["2015", "aqi"]
+categories = []
+
+[header]
+image = ""
+caption = ""
+preview = true
 +++
 
 
