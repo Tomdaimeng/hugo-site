@@ -22,6 +22,26 @@ preview = true
 | ---- | ---- | ---- | -------- |
 | additive model | b | c | d |
 | bagging | 装袋 | c | d |
-| boosting (method) | 提升方法 | [10.1]({{}}) | [中文维基](https://zh.wikipedia.org/wiki/%E6%8F%90%E5%8D%87%E6%96%B9%E6%B3%95) |
+| Bayesian |  |  |  |
+| boosting (method) | 提升方法 | [10.1]({{}}) | [维基](https://zh.wikipedia.org/wiki/%E6%8F%90%E5%8D%87%E6%96%B9%E6%B3%95) |
+| bootstrapping | 自助（抽样）法 |  | [维基](https://zh.wikipedia.org/wiki/%E8%87%AA%E5%8A%A9%E6%B3%95) |
+| classfication | 分类 |  |  |
+| cross-validation |  |  |  |
+| ensemble learning |  |  |  |
+| Expectation-Maximization |  |  |  |
+| Gibbs sampling |  |  |  |
+| kernel method |  |  |  |
+| learner | 学习器 |  | 西瓜书-p2 |
+| local regression |  |  |  |
+| maximum likelihood |  |  |  |
+| overfitting |  |  |  |
+| penalization |  |  |  |
+| regression | 分类 |  |  |
+| regularization |  |  |  |
 | shrinkage | b | c | d |
-| a | b | c | d |
+| spline | 样条 |  | [维基](https://zh.wikipedia.org/wiki/%E6%A0%B7%E6%9D%A1%E5%87%BD%E6%95%B0) |
+| supervised learning | 监督学习 | [1]({{< ref "/post/eslii/ch01/ch01_00.zh.md" >}}) | [维基](https://zh.wikipedia.org/wiki/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0) 西瓜书-p3 |
+| underfitting |  |  |  |
+| unsupervised learning | 无监督学习 | c | [维基](https://zh.wikipedia.org/wiki/%E9%9D%9E%E7%9B%A3%E7%9D%A3%E5%BC%8F%E5%AD%B8%E7%BF%92) 西瓜书-p3 |
+| wavelet | 小波 |  | [维基](https://zh.wikipedia.org/wiki/%E5%B0%8F%E6%B3%A2%E5%88%86%E6%9E%90) |
+|  |  |  |  |
