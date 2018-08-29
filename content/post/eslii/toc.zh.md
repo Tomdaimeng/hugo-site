@@ -16,7 +16,7 @@ caption = ""
 preview = true
 
 +++
-1. Introduction
+1. [Introcution]({{< ref "/post/eslii/ch01/ch01_00.zh.md" >}})
 2. Overview of Supervised Learning
   1. [Introcution]()
   2. [Variable Types and Terminology]()
