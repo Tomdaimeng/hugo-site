@@ -7,9 +7,10 @@ lastmod = 2018-08-27T15:43:10+08:00
 draft = false
 math = false
 
+authors = ["Butters"]
+
 tags = ["译文"]
 categories = ["统计学习基础（译注）"]
-
 
 [header]
 image = ""
