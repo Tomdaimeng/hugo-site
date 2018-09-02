@@ -3,7 +3,7 @@ title = "统计学习基础：英文术语中译"
 summary = "“统计学习基础”（ESL）一书中的专业术语的中英文对照，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2018-08-27T15:43:10+08:00
+lastmod = 2018-09-02T14:43:10+08:00
 draft = false
 math = false
 
@@ -28,15 +28,20 @@ preview = true
 | bootstrapping | 自助（抽样）法 |  | [维基](https://zh.wikipedia.org/wiki/%E8%87%AA%E5%8A%A9%E6%B3%95) |
 | classfication | 分类 |  |  |
 | cross-validation |  |  |  |
+| decision boundary | 判别边界 | 2.3 | 百度翻译 |
 | ensemble learning |  |  |  |
 | Expectation-Maximization |  |  |  |
+| generative model | 生成模型 |  | [维基](https://zh.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B) |
 | Gibbs sampling |  |  |  |
 | kernel method |  |  |  |
 | learner | 学习器 |  | 西瓜书-p2 |
+| least squares | 最小二乘 | [2.3]({{< ref "/post/eslii/ch02/ch02_03.zh.md" >}}) |  |
 | local regression |  |  |  |
 | maximum likelihood |  |  |  |
+| nearest neighbors | 最近邻域、近邻 |  | [维基](https://zh.wikipedia.org/wiki/%E6%9C%80%E8%BF%91%E9%84%B0%E5%B1%85%E6%B3%95) 西瓜书-p225 |
 | overfitting |  |  |  |
 | penalization |  |  |  |
+| project pursuit | 投影寻踪 |  |  |
 | regression | 分类 |  |  |
 | regularization |  |  |  |
 | shrinkage | b | c | d |
