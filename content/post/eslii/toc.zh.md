@@ -9,7 +9,7 @@ math = true
 
 authors = ["Butters"]
 
-tags = []
+tags = ["2018"]
 categories = ["统计学习基础（译注）"]
 
 [header]
@@ -23,7 +23,7 @@ preview = true
   1. [引言]({{< ref "/post/eslii/ch02/ch02_01.zh.md" >}})
   2. [变量类型和术语]({{< ref "/post/eslii/ch02/ch02_02.zh.md" >}})
   3. [两个简单的预测方法：最小二乘和最近邻域]({{< ref "/post/eslii/ch02/ch02_03.zh.md" >}})
-  4. [Statistical Decision Theory]()
+  4. [统计决策理论]({{< ref "/post/eslii/ch02/ch02_04.zh.md" >}})
   5. [Local Methods in High Dimensions]()
   6. [Statistical Models, Supervised Learning and Function Approximation]()
   7. [Structured Regression Models]()

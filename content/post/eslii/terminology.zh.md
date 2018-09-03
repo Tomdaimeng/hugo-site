@@ -3,13 +3,13 @@ title = "统计学习基础：英文术语中译"
 summary = "“统计学习基础”（ESL）一书中的专业术语的中英文对照，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2018-09-02T14:43:10+08:00
+lastmod = 2018-09-03T12:03:10+08:00
 draft = false
 math = false
 
 authors = ["Butters"]
 
-tags = ["译文"]
+tags = ["译文", "2018"]
 categories = ["统计学习基础（译注）"]
 
 [header]
@@ -23,7 +23,7 @@ preview = true
 | ---- | ---- | ---- | -------- |
 | additive model | b | c | d |
 | bagging | 装袋 | c | d |
-| Bayesian |  |  |  |
+| Bayes rate | 贝叶斯错误率 |  | [维基](https://zh.wikipedia.org/wiki/%E8%B4%9D%E5%8F%B6%E6%96%AF%E9%94%99%E8%AF%AF%E7%8E%87) |
 | boosting (method) | 提升方法 | [10.1]({{}}) | [维基](https://zh.wikipedia.org/wiki/%E6%8F%90%E5%8D%87%E6%96%B9%E6%B3%95) |
 | bootstrapping | 自助（抽样）法 |  | [维基](https://zh.wikipedia.org/wiki/%E8%87%AA%E5%8A%A9%E6%B3%95) |
 | classfication | 分类 |  |  |
@@ -44,6 +44,7 @@ preview = true
 | project pursuit | 投影寻踪 |  |  |
 | regression | 分类 |  |  |
 | regularization |  |  |  |
+| robustness | 稳健性 |  |  |
 | shrinkage | b | c | d |
 | spline | 样条 |  | [维基](https://zh.wikipedia.org/wiki/%E6%A0%B7%E6%9D%A1%E5%87%BD%E6%95%B0) |
 | supervised learning | 监督学习 | [1]({{< ref "/post/eslii/ch01/ch01_00.zh.md" >}}) | [维基](https://zh.wikipedia.org/wiki/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0) 西瓜书-p3 |
