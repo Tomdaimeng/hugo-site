@@ -3,7 +3,7 @@ title = "统计学习基础：目录索引"
 summary = "“统计学习基础”（ESL）一书的章节目录索引，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2018-08-31T11:01:10+08:00
+lastmod = 2018-09-04T09:31:07+08:00
 draft = false
 math = true
 
@@ -24,7 +24,7 @@ preview = true
   2. [变量类型和术语]({{< ref "/post/eslii/ch02/ch02_02.zh.md" >}})
   3. [两个简单的预测方法：最小二乘和最近邻域]({{< ref "/post/eslii/ch02/ch02_03.zh.md" >}})
   4. [统计决策理论]({{< ref "/post/eslii/ch02/ch02_04.zh.md" >}})
-  5. [Local Methods in High Dimensions]()
+  5. [高维度问题的局部方法]({{< ref "/post/eslii/ch02/ch02_05.zh.md" >}})
   6. [Statistical Models, Supervised Learning and Function Approximation]()
   7. [Structured Regression Models]()
   8. [Classes of Restricted Estimators]()
