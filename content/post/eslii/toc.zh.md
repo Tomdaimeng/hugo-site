@@ -27,8 +27,8 @@ preview = true
   5. [局部方法中的高维度问题]({{< ref "/post/eslii/ch02/ch02_05.zh.md" >}})
   6. [统计模型、监督学习和函数逼近]({{< ref "/post/eslii/ch02/ch02_06.zh.md" >}})
   7. [有结构的回归模型]({{< ref "/post/eslii/ch02/ch02_07.zh.md" >}})
-  8. [Classes of Restricted Estimators]()
-  9. [Model Selection and the Bias-Variance Tradeoff]()
+  8. [有约束的估计模型类型]({{< ref "/post/eslii/ch02/ch02_08.zh.md" >}})
+  9.  [Model Selection and the Bias-Variance Tradeoff]()
 3. Linear Methods for Regression
   1. [Introduction]()
   2. [Linear Regression Models]()
