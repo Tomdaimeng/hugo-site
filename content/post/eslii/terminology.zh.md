@@ -32,6 +32,7 @@ preview = true
 | decision boundary | 判别边界 | 2.3 | 百度翻译 |
 | ensemble learning |  |  |  |
 | Expectation-Maximization |  |  |  |
+| generalization | 泛化 |  | 西瓜书 |
 | generative model | 生成模型 |  | [维基](https://zh.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B) |
 | Gibbs sampling |  |  |  |
 | kernel method |  |  |  |
