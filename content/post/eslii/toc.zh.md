@@ -28,10 +28,10 @@ preview = true
   6. [统计模型、监督学习和函数逼近]({{< ref "/post/eslii/ch02/ch02_06.zh.md" >}})
   7. [有结构的回归模型]({{< ref "/post/eslii/ch02/ch02_07.zh.md" >}})
   8. [有约束的估计模型类型]({{< ref "/post/eslii/ch02/ch02_08.zh.md" >}})
-  9.  [Model Selection and the Bias-Variance Tradeoff]()
+  9. [模型选择和偏差方差权衡]({{< ref "/post/eslii/ch02/ch02_09.zh.md" >}})
 3. Linear Methods for Regression
-  1. [Introduction]()
-  2. [Linear Regression Models]()
+  1. [引言]({{< ref "/post/eslii/ch03/ch03_01.zh.md" >}})
+  2. [线性回归模型]()
   3. [Subset Selection]()
   4. [Shrinkage Methods]()
   5. [Methods Using Derived Inpute Directions]()
