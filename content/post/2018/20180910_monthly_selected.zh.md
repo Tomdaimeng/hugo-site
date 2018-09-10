@@ -1,8 +1,7 @@
 +++
-title = "2018-08 Monthly Selected Photos"
+title = "2018-08 月度照片精选"
 summary = """
-Selected photos taken in Aug. 2018,
-I hope this series will live long.
+2018年08月照片精选。希望本系列可以天长地久。
 """
 
 date = 2018-09-10T20:43:07+08:00
@@ -11,8 +10,8 @@ draft = false
 math = false
 
 authors = ["Butters"]
-tags = ["photo", "2018"]
-categories = ["Monthly Selected Photos"]
+tags = ["照片", "2018"]
+categories = ["月度照片精选"]
 
 [header]
 image = ""
@@ -22,280 +21,267 @@ preview = false
 [[gallery_item]]
 album = "mosquito_bite"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180810_001517.jpg@!original"
-caption = "Just got bitten"
+caption = "被咬"
 [[gallery_item]]
 album = "mosquito_bite"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180810_002815.jpg@!original"
-caption = "Swollen up"
+caption = "起包"
 
 
 [[gallery_item]]
 album = "swallows"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180829_090208.jpg@!original"
-caption = "Swallows standing on wires"
+caption = "电线上的燕子"
 [[gallery_item]]
 album = "swallows"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180822_100306.jpg@!original"
-caption = "Swallows standing on wires"
+caption = "电线上的燕子"
 [[gallery_item]]
 album = "swallows"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180828_091044.jpg@!original"
-caption = "Under the wires"
+caption = "电线下面"
 
 
 [[gallery_item]]
 album = "reader_kid"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180823_163607.jpg@!original"
-caption = "Sharing with friend"
+caption = "独乐乐不如众乐乐"
 [[gallery_item]]
 album = "reader_kid"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180823_163617.jpg@!original"
-caption = "Face book"
+caption = "脸书"
 [[gallery_item]]
 album = "reader_kid"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180823_163651.jpg@!original"
-caption = "Interesting"
+caption = "有趣"
 
 [[gallery_item]]
 album = "magpie"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180804_145224.jpg@!original"
-caption = "Baby magpie"
+caption = "小喜鹊"
 [[gallery_item]]
 album = "magpie"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180804_145431.jpg@!original"
-caption = "Baby magpie and Eva"
+caption = "小喜鹊和 Eva"
 
 [[gallery_item]]
 album = "back"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180818_201454.jpg@!original"
-caption = "Back"
+caption = "背影"
 [[gallery_item]]
 album = "back"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180818_212235.jpg@!original"
-caption = "Back"
+caption = "背影"
 [[gallery_item]]
 album = "back"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180822_212312.jpg@!original"
-caption = "Back"
+caption = "背影"
 
 [[gallery_item]]
 album = "kids"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180829_120857.jpg@!original"
-caption = "Boy unwillingly posing for photo"
+caption = "被妈妈逼迫拍照留念的不情愿小男孩"
 [[gallery_item]]
 album = "kids"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180829_173100.jpg@!original"
-caption = "Boy working on his summer homework"
+caption = "希望你可以写完假期作业"
 
 [[gallery_item]]
 album = "eva_vs_laptop"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180808_134206.jpg@!original"
-caption = "Eva on my laptop"
+caption = "Eva 躺在我的电脑上面"
 [[gallery_item]]
 album = "eva_vs_laptop"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180808_134241.jpg@!original"
-caption = "Eva guarding my laptop, against me"
+caption = "Eva 守卫战略高地"
 [[gallery_item]]
 album = "eva_vs_laptop"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180812_112152.jpg@!original"
-caption = "Eva never falls back"
+caption = "Eva 不撤退"
 [[gallery_item]]
 album = "eva_vs_laptop"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180810_202151.jpg@!original"
-caption = "Eva takes mouse area"
+caption = "Eva 占据鼠标位"
 
 [[gallery_item]]
 album = "grill_sausage"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180806_125745.jpg@!original"
-caption = "Octupus sausage bento"
+caption = "章鱼香肠便当"
 [[gallery_item]]
 album = "grill_sausage"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180807_111904.jpg@!original"
-caption = "Octupus sausage and butter rice"
+caption = "章鱼香肠与黄油米饭"
 [[gallery_item]]
 album = "grill_sausage"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180820_131155.jpg@!original"
-caption = "Chicken breast and onions"
+caption = "鸡胸洋葱"
 
 
 [[gallery_item]]
 album = "white"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180814_103226.jpg@!original"
-caption = "White and giant gourd"
+caption = "白猫与葫芦"
 [[gallery_item]]
 album = "white"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180815_132039.jpg@!original"
-caption = "White and stool"
+caption = "白猫与木凳"
 [[gallery_item]]
 album = "white"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180815_120134.jpg@!original"
-caption = "White and travel pillow"
+caption = "白猫与旅行枕"
 [[gallery_item]]
 album = "white"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180815_104626_1.jpg@!original"
-caption = "White's blue eyes"
+caption = "白猫美瞳"
 
 [[gallery_item]]
 album = "lironghao"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180817_221037.jpg@!original"
-caption = "Nice to meet Lironghao"
+caption = "又见李荣浩"
 [[gallery_item]]
 album = "lironghao"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180817_220511.jpg@!original"
-caption = "Nice to meet Lironghao"
+caption = "又见李荣浩"
 
 [[gallery_item]]
 album = "plant"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180829_085855.jpg@!original"
-caption = "Morning glories in my yard"
+caption = "院子中的牵牛花"
 [[gallery_item]]
 album = "plant"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180822_133914.jpg@!original"
-caption = "Rainbows on edges"
+caption = "叶边的彩虹"
 [[gallery_item]]
 album = "plant"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180822_101906.jpg@!original"
-caption = "Lone twig of fall"
+caption = "一枝秋"
 
 [[gallery_item]]
 album = "notebooks"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180808_114058.jpg@!original"
-caption = "Two years working journal"
+caption = "两年的工作日志"
 [[gallery_item]]
 album = "notebooks"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180808_121501.jpg@!original"
-caption = "They keeps record of my thoughts"
+caption = "记录了当时的思路"
 [[gallery_item]]
 album = "notebooks"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180811_052521.jpg@!original"
-caption = "Dim light outside in the sleepless night"
+caption = "失眠到凌晨四点，外面恍惚的灯光"
 
 [[gallery_item]]
 album = "random"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180809_171703.jpg@!original"
-caption = "Bird feeder made out of milk carton, with no birds come to eat"
+caption = "用牛奶瓶做了喂鸟器，然而却没有鸟来吃。"
 [[gallery_item]]
 album = "random"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180805_185808.jpg@!original"
-caption = "A weird Hello Kitty in a pile of eggplants"
+caption = "在卖菜的茄子堆里躺着一个奇怪的 Hello Kitty"
 [[gallery_item]]
 album = "random"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180818_162603.jpg@!original"
-caption = "Zaogao King in Shibao Street, long line everytime"
+caption = "食宝街二期的枣糕王，每次去都是一排长队。"
 [[gallery_item]]
 album = "random"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180822_140905.jpg@!original"
-caption = "Miss Shi across table in Starbucks, reading her neat notes"
+caption = "星巴克对面的施女士，阅读着整齐的笔记。"
 [[gallery_item]]
 album = "random"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180823_205210.jpg@!original"
-caption = "Central College of Drama Queen, Leggy Department"
+caption = "中央戏精学院长腿系"
 [[gallery_item]]
 album = "random"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180822_225642.jpg@!original"
-caption = "Some impulse purchase"
+caption = "心血来潮买了调料"
 
 [[gallery_item]]
 album = "eva"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180801_110741.jpg@!original"
-caption = "Like a noble lady"
+caption = "贵妃躺"
 [[gallery_item]]
 album = "eva"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180808_104638.jpg@!original"
-caption = "Faking a photo"
+caption = "伪装照片"
 [[gallery_item]]
 album = "eva"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180817_001423.jpg@!original"
-caption = "Sleeping with head almost falling out of bed"
+caption = "睡的脑袋快掉出去了"
 [[gallery_item]]
 album = "eva"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180808_114530.jpg@!original"
-caption = "Back of her head"
+caption = "后脑勺"
 [[gallery_item]]
 album = "eva"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180810_140452.jpg@!original"
-caption = "Sleeping in arms of the frog"
+caption = "睡在青蛙怀抱中"
 [[gallery_item]]
 album = "eva"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180819_001936.jpg@!original"
-caption = "As comfortable as a bathing old japanese man"
+caption = "联想起老汉泡澡的姿势，肯定这样很舒服吧"
 [[gallery_item]]
 album = "eva"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180816_183142.jpg@!original"
-caption = "Still not satisfied after finishing a bowl of shrimps"
+caption = "吃光了一碗虾仍不满足"
 [[gallery_item]]
 album = "eva"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180827_103238.jpg@!original"
-caption = "Laying on cardboards"
+caption = "纸盒上打滚"
 [[gallery_item]]
 album = "eva"
 image = "http://images.guansong.wang/2018/2018_Misc/IMG_20180828_142614.jpg@!original"
-caption = "Terrified to see me back home"
+caption = "看到我回家惊恐的眼神"
 
 
 +++
 
-There are tons of mosquitoes in my place,
-which is on the first floor near a creek.
-I bought a set of bed net tent,
-or I couldn't have even been able to sleep at all.
-But it is another story out of the tent.
+河边的一楼，蚊子真是多。还好这个夏天买了蚊帐，不然都无法入睡。
+只是在蚊帐外面就没办法了。
 {{< gallery album="mosquito_bite" >}}
 
-Every morning, there stands a bunch of swallows on these wires,
-and leave a projection of the wires on the ground.
+每天早上，都有一群燕子站在电线上，在地上留下了电线的投影。
 {{< gallery album="swallows" >}}
 
-A girl is reading proses by Liang Shiqiu
-and she is really into it.
-Sometimes she smiles and shares what she just read to the boy.
+一个在咖啡店读梁实秋散文的小女孩儿，不时还与旁边的男孩儿分享有趣之处。
 {{< gallery album="reader_kid" >}}
 
-I picked up a baby magpie who can't really fly.
-After reading some information, I left it where I found it.
+捡到了一只不怎么会飞的小喜鹊，网上查了一下之后又放回了原处。
 {{< gallery album="magpie" >}}
 
-The campus is coming to life as it becomes closer to fall semester.
+临近开学，学校里的人渐渐多了起来。
 {{< gallery album="back" >}}
 
-Generations seem an unbreakable loop.
-Kids are always forced to do things unwillingly
-which parents claim are best for them.
-Apparently not working until deadline is a habit from childhood.
+一代又一代的人，似乎这个轮回从未被改变。
+孩子还是被家长揪着去做不喜欢但是“对他们好”的事情；
+不到截止日期不工作的病，原来是从小就有的。
 {{< gallery album="kids" >}}
 
-People say it is hard to work with cats in home,
-they aren't lying.
+当说起家里有猫无法工作，有时候是真的靠武力直接影响。
 {{< gallery album="eva_vs_laptop" >}}
 
-Recently I am watching the japanese show
-"Shinya Shokudo" or "Midnight Canteen".
-Inspired by the show I tried some of its recipes.
-In the point of view on just cooking,
-the show differs from others because
-it only talks about most common ingredients and dishes.
+最近看了日剧“深夜食堂”，于是尝试了其中的一些菜。
+就烹饪的角度来讲，这个剧与其他美食节目不同的是，
+一般只有最简单的食材和最家常的饭菜。
 {{< gallery album="grill_sausage" >}}
 
-Back to Shenyang to visit my mom, dad, and the White.
+回到沈阳看望爸妈，和白猫。
 {{< gallery album="white" >}}
 
-I met Li Ronghao again on my way back from swimming.
-His hair was neatly cut by someone.
-He seemed to still recognize me.
+有时晚上游泳回来，又见到了久违的李荣浩。
+他毛被人修剪过，似乎还是认识我。
 {{< gallery album="lironghao" >}}
 
-I used to consider the morning glories in my yard flowerless,
-until one day I headed out early and realized
-the flowers were there and it was me who was missing them.
-Fall is coming, and some of the trees are in a hurry.
+之前我以为院子里的牵牛花不开花，直到有一天我一早出去才发觉，
+原来是之前我出去的太晚了，而错过了花。
+秋天将近，北京天气非常舒服，一些树叶已经急不可耐了。
+然而，“凋谢的红叶，哪片未曾绿过？“
 {{< gallery album="plant" >}}
 
-Two year worth of working journal keeps a record of my everyday growth.
-Suddenly I am in the age to enjoy some sleepless night without any reason.
+翻出近两年的工作日志，里面满满地记录了每日的点滴和成长。
+转眼间已经到了毫无原因就失眠的年纪。
 {{< gallery album="notebooks" >}}
 
-Some random fun and beauty around my life.
+身边随机的趣味和美好。
 {{< gallery album="random" >}}
 
-And finally, the weird cat.
+最后是关于 Eva 的一些无法分类的奇形怪状照片。
 {{< gallery album="eva" >}}
