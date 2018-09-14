@@ -31,7 +31,7 @@ preview = true
   9. [模型选择和偏差方差权衡]({{< ref "/post/eslii/ch02/ch02_09.zh.md" >}})
 3. Linear Methods for Regression
   1. [引言]({{< ref "/post/eslii/ch03/ch03_01.zh.md" >}})
-  2. [线性回归模型]()
+  2. [线性回归模型和最小二乘法]({{< ref "/post/eslii/ch03/ch03_02.zh.md" >}})
   3. [Subset Selection]()
   4. [Shrinkage Methods]()
   5. [Methods Using Derived Inpute Directions]()
