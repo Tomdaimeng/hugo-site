@@ -32,7 +32,7 @@ preview = true
 3. Linear Methods for Regression
   1. [引言]({{< ref "/post/eslii/ch03/ch03_01.zh.md" >}})
   2. [线性回归模型和最小二乘法]({{< ref "/post/eslii/ch03/ch03_02.zh.md" >}})
-  3. [Subset Selection]()
+  3. [变量子集选择]({{< ref "/post/eslii/ch03/ch03_03.zh.md" >}})
   4. [Shrinkage Methods]()
   5. [Methods Using Derived Inpute Directions]()
   6. [Discussion: A Comparison of the Selection
