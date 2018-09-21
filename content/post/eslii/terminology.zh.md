@@ -38,6 +38,9 @@ preview = true
 | generative model | 生成模型 |  | [维基](https://zh.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B) |
 | Gibbs sampling |  |  |  |
 | kernel method |  |  |  |
+| lasso | 套索 | [3.4]({{< ref "/post/eslii/ch03/ch03_04.zh.md" >}}) | [维基](https://zh.wikipedia.org/wiki/Lasso%E7%AE%97%E6%B3%95) |
+| least absolute shrinkage and selection operator | 最小绝对值收缩选择算子 | [3.4]({{< ref "/post/eslii/ch03/ch03_04.zh.md" >}}) | 西瓜书-p252 |
+| least angle regression | 最小角回归 | [3.4]({{< ref "/post/eslii/ch03/ch03_04.zh.md" >}}) | [维基](https://zh.wikipedia.org/wiki/%E6%9C%80%E5%B0%8F%E8%A7%92%E5%9B%9E%E5%BD%92) |
 | learner | 学习器 |  | 西瓜书-p2 |
 | least squares | 最小二乘 | [2.3]({{< ref "/post/eslii/ch02/ch02_03.zh.md" >}}) |  |
 | local regression |  |  |  |
@@ -49,9 +52,11 @@ preview = true
 | project pursuit | 投影寻踪 |  |  |
 | regression | 分类 |  |  |
 | regularization |  |  |  |
+| ridge regression | 岭回归 | [3.4]({{< ref "/post/eslii/ch03/ch03_04.zh.md" >}}) | 西瓜书-p252 |
 | robustness | 稳健性 |  |  |
 | shrink | 收缩 | c | 西瓜书-p252 |
 | spline | 样条 |  | [维基](https://zh.wikipedia.org/wiki/%E6%A0%B7%E6%9D%A1%E5%87%BD%E6%95%B0) |
+| standardize (inputs) | 标准化  |  |  |
 | standardized (regression) coefficients | 标准（回归）系数  |  |  |
 | supervised learning | 监督学习 | [1]({{< ref "/post/eslii/ch01/ch01_00.zh.md" >}}) | [维基](https://zh.wikipedia.org/wiki/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0) 西瓜书-p3 |
 | underfitting |  |  |  |
