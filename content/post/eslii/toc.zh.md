@@ -34,7 +34,7 @@ preview = true
   2. [线性回归模型和最小二乘法]({{< ref "/post/eslii/ch03/ch03_02.zh.md" >}})
   3. [变量子集选择]({{< ref "/post/eslii/ch03/ch03_03.zh.md" >}})
   4. [收缩方法]({{< ref "/post/eslii/ch03/ch03_04.zh.md" >}})
-  5. [Methods Using Derived Input Directions]()
+  5. [衍生输入变量的方法]({{< ref "/post/eslii/ch03/ch03_05.zh.md" >}})
   6. [Discussion: A Comparison of the Selection and Shrinkage Methods]()
   7. [Multiple Outcome Shrinkage and Selection]()
   8. [More on the Lasso and Related Path Algorithms]()
