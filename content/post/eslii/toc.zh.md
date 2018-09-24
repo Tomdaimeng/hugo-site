@@ -39,8 +39,8 @@ preview = true
   7. [多输出变量的收缩和变量选择 😱]({{< ref "/post/eslii/ch03/ch03_07.zh.md" >}})
   8. [More on the Lasso and Related Path Algorithms]()
   9. [Computational Considerations]()
-4. Linear Methods for Classification
-  1. [Introduction]
+4. 分类问题的线性方法
+  1. [引言]({{< ref "/post/eslii/ch04/ch04_01.zh.md" >}})
   2. [Linear Regression of an Indicator Matrix]
   3. [Linear Discriminant Analysis]
   4. [Logistic Regression]
