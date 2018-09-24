@@ -37,8 +37,8 @@ preview = true
   5. [衍生输入变量的方法]({{< ref "/post/eslii/ch03/ch03_05.zh.md" >}})
   6. [讨论：子集选择和收缩方法的比较]({{< ref "/post/eslii/ch03/ch03_06.zh.md" >}})
   7. [多输出变量的收缩和变量选择 😱]({{< ref "/post/eslii/ch03/ch03_07.zh.md" >}})
-  8. [More on the Lasso and Related Path Algorithms]()
-  9. [Computational Considerations]()
+  8. [More on the Lasso and Related Path Algorithms]({{< ref "/post/eslii/ch03/ch03_08.zh.md" >}})
+  9. [Computational Considerations]({{< ref "/post/eslii/ch03/ch03_09.zh.md" >}})
 4. Linear Methods for Classification
   1. [Introduction]
   2. [Linear Regression of an Indicator Matrix]
