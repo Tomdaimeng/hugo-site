@@ -27,6 +27,7 @@ preview = true
 | Bayes rate | 贝叶斯错误率 |  | [维基](https://zh.wikipedia.org/wiki/%E8%B4%9D%E5%8F%B6%E6%96%AF%E9%94%99%E8%AF%AF%E7%8E%87) |
 | boosting (method) | 提升方法 | [10.1]({{}}) | [维基](https://zh.wikipedia.org/wiki/%E6%8F%90%E5%8D%87%E6%96%B9%E6%B3%95) |
 | bootstrapping | 自助（抽样）法 |  | [维基](https://zh.wikipedia.org/wiki/%E8%87%AA%E5%8A%A9%E6%B3%95) 西瓜书-p27 |
+| canonical correlation analysis, CCA | 典型相关分析 | [3.7](({{< ref "/post/eslii/ch03/ch03_07.zh.md" >}})) | [维基](https://zh.wikipedia.org/wiki/%E5%85%B8%E5%9E%8B%E7%9B%B8%E5%85%B3) |
 | classfication | 分类 |  |  |
 | cross-validation |  |  |  |
 | curse of dimensionaliy | 维数灾难 维度灾难 | [2.5]({{< ref "/post/eslii/ch02/ch02_03.zh.md" >}})| [维基](https://zh.wikipedia.org/wiki/%E7%BB%B4%E6%95%B0%E7%81%BE%E9%9A%BE) 西瓜书-p227 |

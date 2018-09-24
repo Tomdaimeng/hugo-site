@@ -29,14 +29,14 @@ preview = true
   7. [有结构的回归模型]({{< ref "/post/eslii/ch02/ch02_07.zh.md" >}})
   8. [有约束的估计模型类型]({{< ref "/post/eslii/ch02/ch02_08.zh.md" >}})
   9. [模型选择和偏差方差权衡]({{< ref "/post/eslii/ch02/ch02_09.zh.md" >}})
-3. Linear Methods for Regression
+3. 回归问题的线性方法
   1. [引言]({{< ref "/post/eslii/ch03/ch03_01.zh.md" >}})
   2. [线性回归模型和最小二乘法]({{< ref "/post/eslii/ch03/ch03_02.zh.md" >}})
   3. [变量子集选择]({{< ref "/post/eslii/ch03/ch03_03.zh.md" >}})
   4. [收缩方法]({{< ref "/post/eslii/ch03/ch03_04.zh.md" >}})
   5. [衍生输入变量的方法]({{< ref "/post/eslii/ch03/ch03_05.zh.md" >}})
-  6. [Discussion: A Comparison of the Selection and Shrinkage Methods]()
-  7. [Multiple Outcome Shrinkage and Selection]()
+  6. [讨论：子集选择和收缩方法的比较]({{< ref "/post/eslii/ch03/ch03_06.zh.md" >}})
+  7. [多输出变量的收缩和变量选择 😱]({{< ref "/post/eslii/ch03/ch03_07.zh.md" >}})
   8. [More on the Lasso and Related Path Algorithms]()
   9. [Computational Considerations]()
 4. Linear Methods for Classification
