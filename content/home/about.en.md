@@ -39,4 +39,8 @@ this month.
 I rewrote the site with hugo. It does look fancier, but I
 still miss the plain look of the old site.
 
-
+Recently I'm reading
+[*The Elements of Statistical Learning, 2nd edition*](https://web.stanford.edu/~hastie/ElemStatLearn/),
+And I transalte and add notes to the chapters along the way.
+Here's the [table of content](https://web.stanford.edu/~hastie/ElemStatLearn/),
+which will take you to the chinese site.
