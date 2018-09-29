@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = "2018-04-20T00:00:00"
+date = "2018-09-29T00:00:00"
 
 # Order that this section will appear in.
 weight = 5
@@ -25,7 +25,7 @@ weight = 5
   year = 2014
 
 [[education.courses]]
-  course = "经济学"
+  course = "金融经济学/元培计划"
   institution = "北京大学"
   year = 2007
  
@@ -34,4 +34,8 @@ weight = 5
 ## 欢迎……
 
 ……进入我的新站。我用 hugo 重写了本站，虽然看起来高级了很多，但还是很想念网站原来淳朴的样子。
+
+近期在学习
+[*The Elements of Statistical Learning, 2nd edition*](https://web.stanford.edu/~hastie/ElemStatLearn/)，
+并随着进度记录了中文译注（[目录]({{< ref "/post/eslii/toc.zh.md" >}})）。
 
