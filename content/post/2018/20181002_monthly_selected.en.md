@@ -11,7 +11,7 @@ and my daily trivia.
 """
 
 date = 2018-10-03T10:21:00+08:00
-lastmod = 2018-10-03T10:21:00+08:00
+lastmod = 2018-10-03T23:10:00+08:00
 draft = false
 math = false
 
@@ -302,6 +302,10 @@ caption = "Baby Falcon, my old friend"
 album = "about_butters"
 image = "http://images.guansong.wang/2018/20180901_Misc/IMG_20180915_202537.jpg@!original"
 caption = "Seemingly video hostess cells in a startup building"
+[[gallery_item]]
+album = "about_butters"
+image = "http://images.guansong.wang/2018/20180901_Misc/IMG_20180929_174813.jpg@!original"
+caption = "A direct translation will be \"National 69 Day\"."
 
 +++
 

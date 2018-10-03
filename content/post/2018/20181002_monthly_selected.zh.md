@@ -10,7 +10,7 @@ summary = """
 """
 
 date = 2018-10-03T10:21:00+08:00
-lastmod = 2018-10-03T10:21:00+08:00
+lastmod = 2018-10-03T23:10:00+08:00
 draft = false
 math = false
 
@@ -301,6 +301,10 @@ caption = "小隼"
 album = "about_butters"
 image = "http://images.guansong.wang/2018/20180901_Misc/IMG_20180915_202537.jpg@!original"
 caption = "创业楼中，貌似主播间"
+[[gallery_item]]
+album = "about_butters"
+image = "http://images.guansong.wang/2018/20180901_Misc/IMG_20180929_174813.jpg@!original"
+caption = "“国 69 庆”，为何如此的违和？"
 
 +++
 
