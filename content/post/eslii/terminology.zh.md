@@ -44,6 +44,7 @@ preview = true
 | least angle regression | 最小角回归 | [3.4]({{< ref "/post/eslii/ch03/ch03_04.zh.md" >}}) | [维基](https://zh.wikipedia.org/wiki/%E6%9C%80%E5%B0%8F%E8%A7%92%E5%9B%9E%E5%BD%92) |
 | learner | 学习器 |  | 西瓜书-p2 |
 | least squares | 最小二乘 | [2.3]({{< ref "/post/eslii/ch02/ch02_03.zh.md" >}}) |  |
+| linear discriminant analysis | 线性判别分析 |  | [维基](https://zh.wikipedia.org/wiki/%E7%B7%9A%E6%80%A7%E5%88%A4%E5%88%A5%E5%88%86%E6%9E%90) |
 | local regression |  |  |  |
 | maximum likelihood |  |  |  |
 | nearest neighbors | 最近邻域、近邻 |  | [维基](https://zh.wikipedia.org/wiki/%E6%9C%80%E8%BF%91%E9%84%B0%E5%B1%85%E6%B3%95) 西瓜书-p225 |
