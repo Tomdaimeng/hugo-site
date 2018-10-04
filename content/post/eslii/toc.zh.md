@@ -3,7 +3,7 @@ title = "统计学习基础：目录索引"
 summary = "“统计学习基础”（ESL）一书的章节目录索引，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2018-09-04T09:31:07+08:00
+lastmod = 2018-10-04T16:21:07+08:00
 draft = false
 math = true
 
@@ -39,8 +39,8 @@ preview = true
   7. [多输出变量的收缩和变量选择 😱]({{< ref "/post/eslii/ch03/ch03_07.zh.md" >}})
   8. [更多关于套索回归和类似的路径算法]({{< ref "/post/eslii/ch03/ch03_08.zh.md" >}})
   9. [计算量考量]({{< ref "/post/eslii/ch03/ch03_09.zh.md" >}})
-4. Linear Methods for Classification
-  1. [Introduction]
+4. 分类问题的线性方法
+  1. [引言]({{< ref "/post/eslii/ch04/ch04_01.zh.md" >}})
   2. [Linear Regression of an Indicator Matrix]
   3. [Linear Discriminant Analysis]
   4. [Logistic Regression]
