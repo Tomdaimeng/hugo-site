@@ -38,6 +38,7 @@ preview = true
 | generalization | 泛化 |  | 西瓜书 |
 | generative model | 生成模型 |  | [维基](https://zh.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B) |
 | Gibbs sampling |  |  |  |
+| indicator function | 指示函数 |  | [维基](https://zh.wikipedia.org/wiki/%E6%8C%87%E7%A4%BA%E5%87%BD%E6%95%B0) |
 | kernel method |  |  |  |
 | lasso | 套索 | [3.4]({{< ref "/post/eslii/ch03/ch03_04.zh.md" >}}) | [维基](https://zh.wikipedia.org/wiki/Lasso%E7%AE%97%E6%B3%95) |
 | least absolute shrinkage and selection operator | 最小绝对值收缩选择算子 | [3.4]({{< ref "/post/eslii/ch03/ch03_04.zh.md" >}}) | 西瓜书-p252 |
