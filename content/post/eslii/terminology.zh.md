@@ -47,6 +47,7 @@ preview = true
 | least squares | 最小二乘 | [2.3]({{< ref "/post/eslii/ch02/ch02_03.zh.md" >}}) |  |
 | linear discriminant analysis | 线性判别分析 |  | [维基](https://zh.wikipedia.org/wiki/%E7%B7%9A%E6%80%A7%E5%88%A4%E5%88%A5%E5%88%86%E6%9E%90) |
 | local regression |  |  |  |
+| logistic regression | 对数几率回归（逻辑回归） | [4.4] | [维基](https://zh.wikipedia.org/wiki/%E9%82%8F%E8%BC%AF%E8%BF%B4%E6%AD%B8) |
 | maximum likelihood |  |  |  |
 | nearest neighbors | 最近邻域、近邻 |  | [维基](https://zh.wikipedia.org/wiki/%E6%9C%80%E8%BF%91%E9%84%B0%E5%B1%85%E6%B3%95) 西瓜书-p225 |
 | orthogonality | 正交 |  | [维基](https://zh.wikipedia.org/wiki/%E6%AD%A3%E4%BA%A4) |

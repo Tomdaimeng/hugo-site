@@ -41,9 +41,9 @@ preview = true
   9. [计算量考量]({{< ref "/post/eslii/ch03/ch03_09.zh.md" >}})
 4. 分类问题的线性方法
   1. [引言]({{< ref "/post/eslii/ch04/ch04_01.zh.md" >}})
-  2. [Linear Regression of an Indicator Matrix]
-  3. [Linear Discriminant Analysis]
-  4. [Logistic Regression]
+  2. [对指示变量矩阵的线性回归]({{< ref "/post/eslii/ch04/ch04_02.zh.md" >}})
+  3. [线性判别分析]
+  4. [对数几率回归（逻辑回归）]
   5. [Separating Hyperplanes]
 5. Basis Expansions and Regularization
   1. [Introduction]
