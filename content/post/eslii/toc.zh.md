@@ -42,7 +42,7 @@ preview = true
 4. 分类问题的线性方法
   1. [引言]({{< ref "/post/eslii/ch04/ch04_01.zh.md" >}})
   2. [对指示变量矩阵的线性回归]({{< ref "/post/eslii/ch04/ch04_02.zh.md" >}})
-  3. [线性判别分析]
+  3. [线性判别分析]({{< ref "/post/eslii/ch04/ch04_03.zh.md" >}})
   4. [对数几率回归（逻辑回归）]
   5. [Separating Hyperplanes]
 5. Basis Expansions and Regularization
