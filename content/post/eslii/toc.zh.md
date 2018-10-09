@@ -43,7 +43,7 @@ preview = true
   1. [引言]({{< ref "/post/eslii/ch04/ch04_01.zh.md" >}})
   2. [对指示变量矩阵的线性回归]({{< ref "/post/eslii/ch04/ch04_02.zh.md" >}})
   3. [线性判别分析]({{< ref "/post/eslii/ch04/ch04_03.zh.md" >}})
-  4. [对数几率回归（逻辑回归）]
+  4. [对数几率回归（逻辑回归）]({{< ref "/post/eslii/ch04/ch04_04.zh.md" >}})
   5. [Separating Hyperplanes]
 5. Basis Expansions and Regularization
   1. [Introduction]
