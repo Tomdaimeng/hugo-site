@@ -53,6 +53,7 @@ preview = true
 | orthogonality | 正交 |  | [维基](https://zh.wikipedia.org/wiki/%E6%AD%A3%E4%BA%A4) |
 | overfitting |  |  |  |
 | penalization |  |  |  |
+| piecewise | 分段 |  |  |
 | project pursuit | 投影寻踪 |  |  |
 | regression | 分类 |  |  |
 | regularization |  |  |  |

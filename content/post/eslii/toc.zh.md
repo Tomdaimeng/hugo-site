@@ -45,8 +45,8 @@ preview = true
   3. [线性判别分析]({{< ref "/post/eslii/ch04/ch04_03.zh.md" >}})
   4. [对数几率回归（逻辑回归）]({{< ref "/post/eslii/ch04/ch04_04.zh.md" >}})
   5. [分离超平面]({{< ref "/post/eslii/ch04/ch04_05.zh.md" >}})
-5. Basis Expansions and Regularization
-  1. [Introduction]
+5. 基拓展和正则化
+  1. [引言]({{< ref "/post/eslii/ch05/ch05_01.zh.md" >}})
   2. [Piecewise Polynomials and Splines]
   3. [Filtering and Feature Extraction]
   4. [Smoothing Splines]
