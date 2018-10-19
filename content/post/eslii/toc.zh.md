@@ -47,7 +47,7 @@ preview = true
   5. [分离超平面]({{< ref "/post/eslii/ch04/ch04_05.zh.md" >}})
 5. 基拓展和正则化
   1. [引言]({{< ref "/post/eslii/ch05/ch05_01.zh.md" >}})
-  2. [Piecewise Polynomials and Splines]
+  2. [分段多项式和样条]({{< ref "/post/eslii/ch05/ch05_02.zh.md" >}})
   3. [Filtering and Feature Extraction]
   4. [Smoothing Splines]
   5. [Automatic Selection of the Smoothing Parameters]

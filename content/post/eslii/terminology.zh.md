@@ -32,8 +32,10 @@ preview = true
 | cross-validation |  |  |  |
 | curse of dimensionaliy | 维数灾难 维度灾难 | [2.5]({{< ref "/post/eslii/ch02/ch02_03.zh.md" >}})| [维基](https://zh.wikipedia.org/wiki/%E7%BB%B4%E6%95%B0%E7%81%BE%E9%9A%BE) 西瓜书-p227 |
 | decision boundary | 判别边界 | 2.3 | 百度翻译 |
+| deviance | 偏差 |  |  |
 | ensemble learning |  |  |  |
 | Expectation-Maximization |  |  |  |
+| extrapolation | 外推 | | [维基](https://zh.wikipedia.org/wiki/%E5%A4%96%E6%8E%A8) |
 | forward | 前向 |  | 西瓜书-248 |
 | generalization | 泛化 |  | 西瓜书 |
 | generative model | 生成模型 |  | [维基](https://zh.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B) |
