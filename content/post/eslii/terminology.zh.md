@@ -36,6 +36,7 @@ preview = true
 | ensemble learning |  |  |  |
 | Expectation-Maximization |  |  |  |
 | extrapolation | 外推 | | [维基](https://zh.wikipedia.org/wiki/%E5%A4%96%E6%8E%A8) |
+| filter | 滤波 |  |  |
 | forward | 前向 |  | 西瓜书-248 |
 | generalization | 泛化 |  | 西瓜书 |
 | generative model | 生成模型 |  | [维基](https://zh.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B) |

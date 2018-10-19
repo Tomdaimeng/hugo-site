@@ -48,7 +48,7 @@ preview = true
 5. 基拓展和正则化
   1. [引言]({{< ref "/post/eslii/ch05/ch05_01.zh.md" >}})
   2. [分段多项式和样条]({{< ref "/post/eslii/ch05/ch05_02.zh.md" >}})
-  3. [Filtering and Feature Extraction]
+  3. [滤波和特征提取]({{< ref "/post/eslii/ch05/ch05_03.zh.md" >}})
   4. [Smoothing Splines]
   5. [Automatic Selection of the Smoothing Parameters]
   6. [Nonparametric Logistic Regression]
