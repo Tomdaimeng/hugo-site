@@ -18,6 +18,8 @@ caption = ""
 preview = true
 +++
 
+另外可参考 Wei Ya 的翻译版本（[链接](https://esl.hohoweiya.xyz/)）。
+
 1. [序言]({{< ref "/post/eslii/ch01/ch01_00.zh.md" >}})
 2. 监督学习概述
   1. [引言]({{< ref "/post/eslii/ch02/ch02_01.zh.md" >}})

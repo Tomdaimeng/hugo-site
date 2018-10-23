@@ -5,7 +5,7 @@ summary = """
 """
 
 date = 2018-08-22T14:44:10+08:00
-lastmod = 2018-08-27T15:05:10+08:00
+lastmod = 2018-10-23T10:37:10+08:00
 draft = false
 
 authors = ["Butters"]
@@ -47,6 +47,14 @@ The Elements of Statistical Learning[^1]:
 - 对于专业术语的中译，主要参考了：
   - 西瓜书：周志华 (2016)[^2]。
   - 维基百科：一些英文页面已有中文对照。
+
+## 更新 2018-10-23
+
+搜索某个术语的时候，偶然落到了一个网页上，发现 Wei Ya 已经完成了整本书的翻译（[链接](https://esl.hohoweiya.xyz/)）。
+
+本想放弃这个版本，转向校对 Wei Ya 的版本，但几天的实验发现缺少了原有的读书动力。
+这个翻译计划对我自己的促进才是其根本的意义。
+故我会继续进行下去，同时也会参考和校对 Wei Ya 的版本。
 
 [^1]: Hastie, T., Tibshirani, R., and Friedman, J. (2009). The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition, Springer, New York.
 [^2]: 周志华. 2016. 机器学习. 清华大学出版社.
