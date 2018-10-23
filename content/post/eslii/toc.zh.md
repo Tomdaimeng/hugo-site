@@ -49,7 +49,7 @@ preview = true
   1. [引言]({{< ref "/post/eslii/ch05/ch05_01.zh.md" >}})
   2. [分段多项式和样条]({{< ref "/post/eslii/ch05/ch05_02.zh.md" >}})
   3. [滤波和特征提取]({{< ref "/post/eslii/ch05/ch05_03.zh.md" >}})
-  4. [Smoothing Splines]
+  4. [平滑样条]({{< ref "/post/eslii/ch05/ch05_04.zh.md" >}})
   5. [Automatic Selection of the Smoothing Parameters]
   6. [Nonparametric Logistic Regression]
   7. [Multidimensional Splines]
