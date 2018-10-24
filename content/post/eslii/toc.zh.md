@@ -53,7 +53,7 @@ preview = true
   3. [滤波和特征提取]({{< ref "/post/eslii/ch05/ch05_03.zh.md" >}})
   4. [平滑样条]({{< ref "/post/eslii/ch05/ch05_04.zh.md" >}})
   5. [平滑参数的自动选择]({{< ref "/post/eslii/ch05/ch05_05.zh.md" >}})
-  6. [Nonparametric Logistic Regression]
+  6. [非参数对数几率回归]({{< ref "/post/eslii/ch05/ch05_06.zh.md" >}})
   7. [Multidimensional Splines]
   8. [Regularization and Reproducing Kernel Hilbert Spaces]
   9. [Wavelet Smoothing]
