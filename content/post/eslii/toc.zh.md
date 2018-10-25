@@ -38,7 +38,7 @@ preview = true
   4. [收缩方法]({{< ref "/post/eslii/ch03/ch03_04.zh.md" >}})
   5. [衍生输入变量的方法]({{< ref "/post/eslii/ch03/ch03_05.zh.md" >}})
   6. [讨论：子集选择和收缩方法的比较]({{< ref "/post/eslii/ch03/ch03_06.zh.md" >}})
-  7. [多输出变量的收缩和变量选择 😱]({{< ref "/post/eslii/ch03/ch03_07.zh.md" >}})
+  7. [多输出变量的收缩和变量选择 :scream:]({{< ref "/post/eslii/ch03/ch03_07.zh.md" >}})
   8. [更多关于套索回归和类似的路径算法]({{< ref "/post/eslii/ch03/ch03_08.zh.md" >}})
   9. [计算量考量]({{< ref "/post/eslii/ch03/ch03_09.zh.md" >}})
 4. 分类问题的线性方法
@@ -54,8 +54,8 @@ preview = true
   4. [平滑样条]({{< ref "/post/eslii/ch05/ch05_04.zh.md" >}})
   5. [平滑参数的自动选择]({{< ref "/post/eslii/ch05/ch05_05.zh.md" >}})
   6. [非参数对数几率回归]({{< ref "/post/eslii/ch05/ch05_06.zh.md" >}})
-  7. [Multidimensional Splines]
-  8. [Regularization and Reproducing Kernel Hilbert Spaces]
+  7. [多维样条]({{< ref "/post/eslii/ch05/ch05_07.zh.md" >}})
+  8. [Regularization and Reproducing Kernel Hilbert Spaces :scream:]
   9. [Wavelet Smoothing]
 6. Kernel Smoothing Methods
   1. [One-Dimensional Kernel Smoothers]
