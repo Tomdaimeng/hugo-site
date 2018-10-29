@@ -55,7 +55,7 @@ preview = true
   5. [平滑参数的自动选择]({{< ref "/post/eslii/ch05/ch05_05.zh.md" >}})
   6. [非参数对数几率回归]({{< ref "/post/eslii/ch05/ch05_06.zh.md" >}})
   7. [多维样条]({{< ref "/post/eslii/ch05/ch05_07.zh.md" >}})
-  8. [Regularization and Reproducing Kernel Hilbert Spaces :scream:]
+  8. [正则化与再生核希尔伯特空间 :scream:]({{< ref "/post/eslii/ch05/ch05_08.zh.md" >}})
   9. [Wavelet Smoothing]
 6. Kernel Smoothing Methods
   1. [One-Dimensional Kernel Smoothers]
