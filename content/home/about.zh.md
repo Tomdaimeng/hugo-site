@@ -40,6 +40,6 @@ weight = 5
 并随着进度记录了中文译注（[目录]({{< ref "/post/eslii/toc.zh.md" >}})）。
 
 我要回来了，简历：
-[在线简历](http://guansong.wang/resume/resume_zh.html)，
-[pdf 版本](http://public.guansong.wang/resume/resume_wangguansong_2018-10_zh.pdf)。
+[在线简历](http://guansong.wang/resume/resume_zh_latest.html)，
+[pdf 版本](http://public.guansong.wang/resume/resume_wangguansong_zh_latest.pdf)。
 

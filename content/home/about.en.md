@@ -46,5 +46,5 @@ Here's the [table of content](https://web.stanford.edu/~hastie/ElemStatLearn/),
 which will take you to the chinese site.
 
 I'm coming back, here is résumé:
-[online](http://guansong.wang/resume/resume_en.html), 
-[pdf](http://public.guansong.wang/resume/resume_wangguansong_2018-10_en.pdf)。
+[online](http://guansong.wang/resume/resume_en_latest.html), 
+[pdf](http://public.guansong.wang/resume/resume_wangguansong_en_latest.pdf)。
