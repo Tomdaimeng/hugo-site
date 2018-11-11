@@ -271,7 +271,7 @@ caption = "端坐。"
 
 {{< gallery album="places" >}}
 
-遇到的而一些人。
+遇到的一些人。
 
 {{< gallery album="people" >}}
 
