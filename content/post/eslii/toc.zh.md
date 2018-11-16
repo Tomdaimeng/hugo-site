@@ -56,8 +56,9 @@ preview = true
   6. [非参数对数几率回归]({{< ref "/post/eslii/ch05/ch05_06.zh.md" >}})
   7. [多维样条]({{< ref "/post/eslii/ch05/ch05_07.zh.md" >}})
   8. [正则化与再生核希尔伯特空间 :scream:]({{< ref "/post/eslii/ch05/ch05_08.zh.md" >}})
-  9. [Wavelet Smoothing]
-6. Kernel Smoothing Methods
+  9. [小波平滑]({{< ref "/post/eslii/ch05/ch05_09.zh.md" >}})
+  10. Appendix: Computations for Splines
+6. [核平滑方法]({{< ref "/post/eslii/ch06/ch06_00.zh.md" >}})
   1. [One-Dimensional Kernel Smoothers]
   2. [Selecting the Width of the Kernel]
   3. [Local Regression in $\mathbb{R}^p$]
