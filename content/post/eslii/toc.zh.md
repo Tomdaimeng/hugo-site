@@ -60,8 +60,8 @@ preview = true
   10. Appendix: Computations for Splines
 6. [核平滑方法]({{< ref "/post/eslii/ch06/ch06_00.zh.md" >}})
   1. [一维的核平滑器]({{< ref "/post/eslii/ch06/ch06_01.zh.md" >}})
-  2. [核函数窗宽的选择]({{< ref "/post/eslii/ch06/ch06_01.zh.md" >}})
-  3. [Local Regression in $\mathbb{R}^p$]
+  2. [核函数窗宽的选择]({{< ref "/post/eslii/ch06/ch06_02.zh.md" >}})
+  3. [$\mathbb{R}^p$ 上的局部回归]({{< ref "/post/eslii/ch06/ch06_03.zh.md" >}})
   4. [Structured Local Regression Models in $\mathbb{R}^p$]
   5. [Local Likelihood and Other Models]
   6. [Kernel Density Estimation and Classification]
