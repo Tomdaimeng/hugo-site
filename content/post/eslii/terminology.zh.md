@@ -22,6 +22,7 @@ preview = true
 | 英文 | 中译 | 位置 | 参考文献 |
 | ---- | ---- | ---- | -------- |
 | additive model | b | c | d |
+| backfitting |  |  |  |
 | backward | 后向 |  | 西瓜书-248 |
 | bagging | 装袋 | c | d |
 | Bayes rate | 贝叶斯错误率 |  | [维基](https://zh.wikipedia.org/wiki/%E8%B4%9D%E5%8F%B6%E6%96%AF%E9%94%99%E8%AF%AF%E7%8E%87) |
