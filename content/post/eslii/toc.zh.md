@@ -64,7 +64,7 @@ preview = true
   3. [$\mathbb{R}^p$ 上的局部回归]({{< ref "/post/eslii/ch06/ch06_03.zh.md" >}})
   4. [ℝᵖ 上的结构化局部线性回归模型]({{< ref "/post/eslii/ch06/ch06_04.zh.md" >}})
   5. [局部似然和其他模型]({{< ref "/post/eslii/ch06/ch06_05.zh.md" >}})
-  6. [Kernel Density Estimation and Classification]
+  6. [核密度估计与分类问题]({{< ref "/post/eslii/ch06/ch06_06.zh.md" >}})
   7. [Radial Basis Functions and Kernels]
   8. [Mixture Models for Density Estimation and Classification]
   9. [Computational Considerations]
