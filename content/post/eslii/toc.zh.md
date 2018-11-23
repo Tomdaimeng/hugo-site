@@ -69,7 +69,7 @@ preview = true
   8. [密度估计的混合模型与分类问题]({{< ref "/post/eslii/ch06/ch06_08.zh.md" >}})
   9. [计算量考量]({{< ref "/post/eslii/ch06/ch06_09.zh.md" >}})
 7. Model Assessment and Selection
-  1. [Introduction]
+  1. [引言]({{< ref "/post/eslii/ch07/ch07_01.zh.md" >}})
   2. [Bias, Variance and Model Complexity]
   3. [The Bias–Variance Decomposition]
   4. [Optimism of the Training Error Rate]
