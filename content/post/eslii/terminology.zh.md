@@ -36,6 +36,7 @@ preview = true
 | deviance | 偏差 |  |  |
 | ensemble learning |  |  |  |
 | Expectation-Maximization |  |  |  |
+| expansion | 展开 |  |  |
 | extrapolation | 外推 | | [维基](https://zh.wikipedia.org/wiki/%E5%A4%96%E6%8E%A8) |
 | filter | 滤波 |  |  |
 | forward | 前向 |  | 西瓜书-248 |
@@ -68,6 +69,7 @@ preview = true
 | standardize (inputs) | 标准化  |  |  |
 | standardized (regression) coefficients | 标准（回归）系数  |  |  |
 | supervised learning | 监督学习 | [1]({{< ref "/post/eslii/ch01/ch01_00.zh.md" >}}) | [维基](https://zh.wikipedia.org/wiki/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0) 西瓜书-p3 |
+| transform | 变换 |  |  |
 | underfitting |  |  |  |
 | unsupervised learning | 无监督学习 | c | [维基](https://zh.wikipedia.org/wiki/%E9%9D%9E%E7%9B%A3%E7%9D%A3%E5%BC%8F%E5%AD%B8%E7%BF%92) 西瓜书-p3 |
 | wavelet | 小波 |  | [维基](https://zh.wikipedia.org/wiki/%E5%B0%8F%E6%B3%A2%E5%88%86%E6%9E%90) |

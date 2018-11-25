@@ -33,7 +33,7 @@ preview = true
   9. [模型选择和偏差方差权衡]({{< ref "/post/eslii/ch02/ch02_09.zh.md" >}})
 3. 回归问题的线性方法
   1. [引言]({{< ref "/post/eslii/ch03/ch03_01.zh.md" >}})
-  2. [线性回归模型和最小二乘法]({{< ref "/post/eslii/ch03/ch03_02.zh.md" >}})
+  2. [线性回归模型和最小二乘]({{< ref "/post/eslii/ch03/ch03_02.zh.md" >}})
   3. [变量子集选择]({{< ref "/post/eslii/ch03/ch03_03.zh.md" >}})
   4. [收缩方法]({{< ref "/post/eslii/ch03/ch03_04.zh.md" >}})
   5. [衍生输入变量的方法]({{< ref "/post/eslii/ch03/ch03_05.zh.md" >}})
