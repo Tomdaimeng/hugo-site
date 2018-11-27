@@ -70,7 +70,7 @@ preview = true
   9. [计算量考量]({{< ref "/post/eslii/ch06/ch06_09.zh.md" >}})
 7. Model Assessment and Selection
   1. [引言]({{< ref "/post/eslii/ch07/ch07_01.zh.md" >}})
-  2. [Bias, Variance and Model Complexity]
+  2. [偏差、方差和模型复杂度]({{< ref "/post/eslii/ch07/ch07_02.zh.md" >}})
   3. [The Bias–Variance Decomposition]
   4. [Optimism of the Training Error Rate]
   5. [Estimates of In-Sample Prediction Error]
