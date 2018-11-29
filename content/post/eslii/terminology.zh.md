@@ -22,6 +22,7 @@ preview = true
 | 英文 | 中译 | 位置 | 参考文献 |
 | ---- | ---- | ---- | -------- |
 | additive model | b | c | d |
+| apparent error | 表现误差 | c | d |
 | backfitting |  |  |  |
 | backward | 后向 |  | 西瓜书-248 |
 | bagging | 装袋 | c | d |
@@ -30,7 +31,7 @@ preview = true
 | bootstrapping | 自助（抽样）法 |  | [维基](https://zh.wikipedia.org/wiki/%E8%87%AA%E5%8A%A9%E6%B3%95) 西瓜书-p27 |
 | canonical correlation analysis, CCA | 典型相关分析 | [3.7](({{< ref "/post/eslii/ch03/ch03_07.zh.md" >}})) | [维基](https://zh.wikipedia.org/wiki/%E5%85%B8%E5%9E%8B%E7%9B%B8%E5%85%B3) |
 | classfication | 分类 |  |  |
-| cross-validation |  |  |  |
+| cross-validation | 交叉验证 |  |  |
 | curse of dimensionaliy | 维数灾难 维度灾难 | [2.5]({{< ref "/post/eslii/ch02/ch02_03.zh.md" >}})| [维基](https://zh.wikipedia.org/wiki/%E7%BB%B4%E6%95%B0%E7%81%BE%E9%9A%BE) 西瓜书-p227 |
 | decision boundary | 判别边界 | 2.3 | 百度翻译 |
 | deviance | 偏差 |  |  |

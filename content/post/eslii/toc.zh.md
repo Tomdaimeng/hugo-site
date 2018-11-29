@@ -68,11 +68,11 @@ preview = true
   7. [径向基函数与核函数]({{< ref "/post/eslii/ch06/ch06_07.zh.md" >}})
   8. [密度估计的混合模型与分类问题]({{< ref "/post/eslii/ch06/ch06_08.zh.md" >}})
   9. [计算量考量]({{< ref "/post/eslii/ch06/ch06_09.zh.md" >}})
-7. Model Assessment and Selection
+7. 模型评估和选择
   1. [引言]({{< ref "/post/eslii/ch07/ch07_01.zh.md" >}})
   2. [偏差、方差和模型复杂度]({{< ref "/post/eslii/ch07/ch07_02.zh.md" >}})
   3. [偏差-方差分解]({{< ref "/post/eslii/ch07/ch07_03.zh.md" >}})
-  4. [Optimism of the Training Error Rate]
+  4. [训练误差率中的乐观值]({{< ref "/post/eslii/ch07/ch07_04.zh.md" >}})
   5. [Estimates of In-Sample Prediction Error]
   6. [The Effective Number of Parameters]
   7. [The Bayesian Approach and BIC]
