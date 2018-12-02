@@ -73,7 +73,7 @@ preview = true
   2. [偏差、方差和模型复杂度]({{< ref "/post/eslii/ch07/ch07_02.zh.md" >}})
   3. [偏差-方差分解]({{< ref "/post/eslii/ch07/ch07_03.zh.md" >}})
   4. [训练误差率中的乐观值]({{< ref "/post/eslii/ch07/ch07_04.zh.md" >}})
-  5. [Estimates of In-Sample Prediction Error]
+  5. [样本内预测误差的估计]({{< ref "/post/eslii/ch07/ch07_05.zh.md" >}})
   6. [The Effective Number of Parameters]
   7. [The Bayesian Approach and BIC]
   8. [Minimum Description Length]
