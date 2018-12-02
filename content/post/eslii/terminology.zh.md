@@ -36,6 +36,7 @@ preview = true
 | decision boundary | 判别边界 | 2.3 | 百度翻译 |
 | deviance | 偏差 |  |  |
 | ensemble learning |  |  |  |
+| effective number of parameters | 有效参数个数 |  |  |
 | Expectation-Maximization |  |  |  |
 | expansion | 展开 |  |  |
 | extrapolation | 外推 | | [维基](https://zh.wikipedia.org/wiki/%E5%A4%96%E6%8E%A8) |
