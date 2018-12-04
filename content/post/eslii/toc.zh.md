@@ -75,7 +75,7 @@ preview = true
   4. [训练误差率中的乐观值]({{< ref "/post/eslii/ch07/ch07_04.zh.md" >}})
   5. [样本内预测误差的估计]({{< ref "/post/eslii/ch07/ch07_05.zh.md" >}})
   6. [有效参数个数]({{< ref "/post/eslii/ch07/ch07_06.zh.md" >}})
-  7. [The Bayesian Approach and BIC]
+  7. [贝叶斯方法和 BIC]({{< ref "/post/eslii/ch07/ch07_07.zh.md" >}})
   8. [Minimum Description Length]
   9. [Vapnik–Chervonenkis Dimension]
   10. [Cross-Validation]
