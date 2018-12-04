@@ -38,7 +38,7 @@ preview = true
 | decision boundary | 判别边界 | 2.3 | 百度翻译 |
 | deviance | 偏差 |  |  |
 | ensemble learning |  |  |  |
-| effective number of parameters | 有效参数个数 |  |  |
+| effective number of parameters | 有效参数个数 | [7.6]({{< ref "/post/eslii/ch07/ch07_06.zh.md" >}}) |  |
 | Expectation-Maximization |  |  |  |
 | expansion | 展开 |  |  |
 | extrapolation | 外推 | | [维基](https://zh.wikipedia.org/wiki/%E5%A4%96%E6%8E%A8) |
@@ -58,6 +58,7 @@ preview = true
 | local regression |  |  |  |
 | logistic regression | 对数几率回归（逻辑回归） | [4.4] | [维基](https://zh.wikipedia.org/wiki/%E9%82%8F%E8%BC%AF%E8%BF%B4%E6%AD%B8) |
 | maximum likelihood |  |  |  |
+| minimum description length | 最小描述长度 |  |  |
 | nearest neighbors | 最近邻域、近邻 |  | [维基](https://zh.wikipedia.org/wiki/%E6%9C%80%E8%BF%91%E9%84%B0%E5%B1%85%E6%B3%95) 西瓜书-p225 |
 | orthogonality | 正交 |  | [维基](https://zh.wikipedia.org/wiki/%E6%AD%A3%E4%BA%A4) |
 | overfitting |  |  |  |

@@ -76,7 +76,7 @@ preview = true
   5. [样本内预测误差的估计]({{< ref "/post/eslii/ch07/ch07_05.zh.md" >}})
   6. [有效参数个数]({{< ref "/post/eslii/ch07/ch07_06.zh.md" >}})
   7. [贝叶斯方法和 BIC]({{< ref "/post/eslii/ch07/ch07_07.zh.md" >}})
-  8. [Minimum Description Length]
+  8. [最小描述长度]({{< ref "/post/eslii/ch07/ch07_08.zh.md" >}})
   9. [Vapnik–Chervonenkis Dimension]
   10. [Cross-Validation]
   11. [Bootstrap Methods]
