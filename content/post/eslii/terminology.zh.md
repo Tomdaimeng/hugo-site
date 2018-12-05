@@ -77,5 +77,6 @@ preview = true
 | transform | 变换 |  |  |
 | underfitting |  |  |  |
 | unsupervised learning | 无监督学习 | c | [维基](https://zh.wikipedia.org/wiki/%E9%9D%9E%E7%9B%A3%E7%9D%A3%E5%BC%8F%E5%AD%B8%E7%BF%92) 西瓜书-p3 |
+| Vapnik–Chervonenkis | 万普尼克-泽范兰杰斯 | [7.9]({{< ref "/post/eslii/ch07/ch07_09.zh.md" >}}) |  |
 | wavelet | 小波 |  | [维基](https://zh.wikipedia.org/wiki/%E5%B0%8F%E6%B3%A2%E5%88%86%E6%9E%90) |
 | Z-score | Z 分数 |  |  |
