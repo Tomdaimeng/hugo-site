@@ -18,7 +18,6 @@ caption = ""
 preview = true
 +++
 
-
 | 英文 | 中译 | 位置 | 参考文献 |
 | ---- | ---- | ---- | -------- |
 | additive model | b | c | d |
@@ -33,7 +32,7 @@ preview = true
 | bootstrapping | 自助（抽样）法 |  | [维基](https://zh.wikipedia.org/wiki/%E8%87%AA%E5%8A%A9%E6%B3%95) 西瓜书-p27 |
 | canonical correlation analysis, CCA | 典型相关分析 | [3.7](({{< ref "/post/eslii/ch03/ch03_07.zh.md" >}})) | [维基](https://zh.wikipedia.org/wiki/%E5%85%B8%E5%9E%8B%E7%9B%B8%E5%85%B3) |
 | classfication | 分类 |  |  |
-| cross-validation | 交叉验证 |  |  |
+| cross-validation | 交叉验证 | [7.10]({{< ref "/post/eslii/ch07/ch07_10.zh.md" >}}) | [维基](https://zh.wikipedia.org/wiki/%E4%BA%A4%E5%8F%89%E9%A9%97%E8%AD%89) |
 | curse of dimensionaliy | 维数灾难 维度灾难 | [2.5]({{< ref "/post/eslii/ch02/ch02_03.zh.md" >}})| [维基](https://zh.wikipedia.org/wiki/%E7%BB%B4%E6%95%B0%E7%81%BE%E9%9A%BE) 西瓜书-p227 |
 | decision boundary | 判别边界 | 2.3 | 百度翻译 |
 | deviance | 偏差 |  |  |
@@ -48,6 +47,7 @@ preview = true
 | generative model | 生成模型 |  | [维基](https://zh.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B) |
 | Gibbs sampling |  |  |  |
 | indicator function | 指示函数 |  | [维基](https://zh.wikipedia.org/wiki/%E6%8C%87%E7%A4%BA%E5%87%BD%E6%95%B0) |
+| k-fold | k 折  |  |  |
 | kernel method |  |  |  |
 | lasso | 套索 | [3.4]({{< ref "/post/eslii/ch03/ch03_04.zh.md" >}}) | [维基](https://zh.wikipedia.org/wiki/Lasso%E7%AE%97%E6%B3%95) |
 | least absolute shrinkage and selection operator | 最小绝对值收缩选择算子 | [3.4]({{< ref "/post/eslii/ch03/ch03_04.zh.md" >}}) | 西瓜书-p252 |
@@ -73,6 +73,7 @@ preview = true
 | spline | 样条 |  | [维基](https://zh.wikipedia.org/wiki/%E6%A0%B7%E6%9D%A1%E5%87%BD%E6%95%B0) |
 | standardize (inputs) | 标准化  |  |  |
 | standardized (regression) coefficients | 标准（回归）系数  |  |  |
+| stump | 树桩 |  |  |
 | supervised learning | 监督学习 | [1]({{< ref "/post/eslii/ch01/ch01_00.zh.md" >}}) | [维基](https://zh.wikipedia.org/wiki/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0) 西瓜书-p3 |
 | transform | 变换 |  |  |
 | underfitting |  |  |  |

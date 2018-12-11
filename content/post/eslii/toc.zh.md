@@ -78,7 +78,7 @@ preview = true
   7. [贝叶斯方法和 BIC]({{< ref "/post/eslii/ch07/ch07_07.zh.md" >}})
   8. [最小描述长度]({{< ref "/post/eslii/ch07/ch07_08.zh.md" >}})
   9. [万普尼克-泽范兰杰斯维度 :scream:]({{< ref "/post/eslii/ch07/ch07_09.zh.md" >}})
-  10. [Cross-Validation]
+  10. [交叉验证]({{< ref "/post/eslii/ch07/ch07_10.zh.md" >}})
   11. [Bootstrap Methods]
   12. [Conditional or Expected Test Error?]
 8. Model Inference and Averaging
