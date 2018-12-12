@@ -3,7 +3,7 @@ title = "统计学习基础：英文术语中译"
 summary = "“统计学习基础”（ESL）一书中的专业术语的中英文对照，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2018-09-03T12:03:10+08:00
+lastmod = 2018-12-12T11:38:07+08:00
 draft = false
 math = false
 
@@ -29,7 +29,7 @@ preview = true
 | Bayes rate | 贝叶斯错误率 |  | [维基](https://zh.wikipedia.org/wiki/%E8%B4%9D%E5%8F%B6%E6%96%AF%E9%94%99%E8%AF%AF%E7%8E%87) |
 | Bayesian information criterion | 贝叶斯信息量准则 | [7.7]({{< ref "/post/eslii/ch07/ch07_07.zh.md" >}}) |  |
 | boosting (method) | 提升方法 | [10.1]({{}}) | [维基](https://zh.wikipedia.org/wiki/%E6%8F%90%E5%8D%87%E6%96%B9%E6%B3%95) |
-| bootstrapping | 自助（抽样）法 |  | [维基](https://zh.wikipedia.org/wiki/%E8%87%AA%E5%8A%A9%E6%B3%95) 西瓜书-p27 |
+| bootstrap | 自助法 |  | [维基](https://zh.wikipedia.org/wiki/%E8%87%AA%E5%8A%A9%E6%B3%95) 西瓜书-p27 |
 | canonical correlation analysis, CCA | 典型相关分析 | [3.7](({{< ref "/post/eslii/ch03/ch03_07.zh.md" >}})) | [维基](https://zh.wikipedia.org/wiki/%E5%85%B8%E5%9E%8B%E7%9B%B8%E5%85%B3) |
 | classfication | 分类 |  |  |
 | cross-validation | 交叉验证 | [7.10]({{< ref "/post/eslii/ch07/ch07_10.zh.md" >}}) | [维基](https://zh.wikipedia.org/wiki/%E4%BA%A4%E5%8F%89%E9%A9%97%E8%AD%89) |

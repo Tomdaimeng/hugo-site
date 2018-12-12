@@ -3,7 +3,7 @@ title = "统计学习基础：目录索引"
 summary = "“统计学习基础”（ESL）一书的章节目录索引，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2018-10-04T16:21:07+08:00
+lastmod = 2018-12-12T11:38:07+08:00
 draft = false
 math = true
 
@@ -79,7 +79,7 @@ preview = true
   8. [最小描述长度]({{< ref "/post/eslii/ch07/ch07_08.zh.md" >}})
   9. [万普尼克-泽范兰杰斯维度 :scream:]({{< ref "/post/eslii/ch07/ch07_09.zh.md" >}})
   10. [交叉验证]({{< ref "/post/eslii/ch07/ch07_10.zh.md" >}})
-  11. [Bootstrap Methods]
+  11. [自助法]({{< ref "/post/eslii/ch07/ch07_11.zh.md" >}})
   12. [Conditional or Expected Test Error?]
 8. Model Inference and Averaging
   1. [Introduction]
