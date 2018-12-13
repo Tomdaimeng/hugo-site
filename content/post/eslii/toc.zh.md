@@ -81,8 +81,8 @@ preview = true
   10. [交叉验证]({{< ref "/post/eslii/ch07/ch07_10.zh.md" >}})
   11. [自助法]({{< ref "/post/eslii/ch07/ch07_11.zh.md" >}})
   12. [条件还是无条件期望测试误差？]({{< ref "/post/eslii/ch07/ch07_12.zh.md" >}})
-8. Model Inference and Averaging
-  1. [Introduction]
+8. 模型的推断和平均
+  1. [引言]
   2. [The Bootstrap and Maximum Likelihood Methods]
   3. [Bayesian Methods]
   4. [Relationship Between the Bootstrap and Bayesian Inference]
