@@ -3,7 +3,7 @@ title = "统计学习基础：目录索引"
 summary = "“统计学习基础”（ESL）一书的章节目录索引，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2018-12-13T11:52:00+08:00
+lastmod = 2018-12-13T16:04:00+08:00
 draft = false
 math = true
 
@@ -82,7 +82,7 @@ preview = true
   11. [自助法]({{< ref "/post/eslii/ch07/ch07_11.zh.md" >}})
   12. [条件还是无条件期望测试误差？]({{< ref "/post/eslii/ch07/ch07_12.zh.md" >}})
 8. 模型的推断和平均
-  1. [引言]
+  1. [引言]({{< ref "/post/eslii/ch08/ch08_01.zh.md" >}})
   2. [The Bootstrap and Maximum Likelihood Methods]
   3. [Bayesian Methods]
   4. [Relationship Between the Bootstrap and Bayesian Inference]
