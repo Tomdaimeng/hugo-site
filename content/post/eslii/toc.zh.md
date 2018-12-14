@@ -85,7 +85,7 @@ preview = true
   1. [引言]({{< ref "/post/eslii/ch08/ch08_01.zh.md" >}})
   2. [自助法和最大似然方法]({{< ref "/post/eslii/ch08/ch08_02.zh.md" >}})
   3. [贝叶斯方法]({{< ref "/post/eslii/ch08/ch08_03.zh.md" >}})
-  4. [Relationship Between the Bootstrap and Bayesian Inference]
+  4. [Relationship Between the Bootstrap and Bayesian Inference :scream:]
   5. [The EM Algorithm]
   6. [MCMC for Sampling from the Posterior]
   7. [Bagging]
