@@ -3,7 +3,7 @@ title = "统计学习基础：目录索引"
 summary = "“统计学习基础”（ESL）一书的章节目录索引，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2018-12-17T14:54:00+08:00
+lastmod = 2018-12-18T10:42:00+08:00
 draft = false
 math = true
 
@@ -86,7 +86,7 @@ preview = true
   2. [自助法和最大似然方法]({{< ref "/post/eslii/ch08/ch08_02.zh.md" >}})
   3. [贝叶斯方法]({{< ref "/post/eslii/ch08/ch08_03.zh.md" >}})
   4. [自助法与贝叶斯推断的关系 :scream:]({{< ref "/post/eslii/ch08/ch08_04.zh.md" >}})
-  5. [The EM Algorithm]
+  5. [最大期望（EM）算法]({{< ref "/post/eslii/ch08/ch08_05.zh.md" >}})
   6. [MCMC for Sampling from the Posterior]
   7. [Bagging]
   8. [Model Averaging and Stacking]
