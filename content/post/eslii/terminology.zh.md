@@ -3,7 +3,7 @@ title = "统计学习基础：英文术语中译"
 summary = "“统计学习基础”（ESL）一书中的专业术语的中英文对照，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2018-12-12T11:38:07+08:00
+lastmod = 2018-12-27T11:27:00+08:00
 draft = false
 math = false
 
@@ -74,6 +74,7 @@ preview = true
 | spline | 样条 |  | [维基](https://zh.wikipedia.org/wiki/%E6%A0%B7%E6%9D%A1%E5%87%BD%E6%95%B0) |
 | standardize (inputs) | 标准化  |  |  |
 | standardized (regression) coefficients | 标准（回归）系数  |  |  |
+| stacking | 堆叠 |  |  |
 | stump | 树桩 |  |  |
 | supervised learning | 监督学习 | [1]({{< ref "/post/eslii/ch01/ch01_00.zh.md" >}}) | [维基](https://zh.wikipedia.org/wiki/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0) 西瓜书-p3 |
 | transform | 变换 |  |  |

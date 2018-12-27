@@ -3,7 +3,7 @@ title = "统计学习基础：目录索引"
 summary = "“统计学习基础”（ESL）一书的章节目录索引，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2018-12-24T16:58:00+08:00
+lastmod = 2018-12-27T11:27:00+08:00
 draft = false
 math = true
 
@@ -89,7 +89,7 @@ preview = true
   5. [最大期望（EM）算法]({{< ref "/post/eslii/ch08/ch08_05.zh.md" >}})
   6. [后验分布的马尔可夫链蒙特卡洛抽样]({{< ref "/post/eslii/ch08/ch08_06.zh.md" >}})
   7. [自助聚合（Bagging）]({{< ref "/post/eslii/ch08/ch08_07.zh.md" >}})
-  8. [Model Averaging and Stacking]
+  8. [模型平均和堆叠（stacking）]({{< ref "/post/eslii/ch08/ch08_08.zh.md" >}})
   9. [Stochastic Search: Bumping]
 9. Additive Models, Trees, and Related Methods
   1. [Generalized Additive Models]
