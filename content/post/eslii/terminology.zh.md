@@ -20,7 +20,7 @@ preview = true
 
 | 英文 | 中译 | 位置 | 参考文献 |
 | ---- | ---- | ---- | -------- |
-| additive model | b | c | d |
+| additive model | 加性模型 | c | 西瓜书 |
 | apparent error | 表现误差 | c | d |
 | backfitting |  |  |  |
 | backward | 后向 |  | 西瓜书-248 |

@@ -91,8 +91,8 @@ preview = true
   7. [自助聚合（Bagging）]({{< ref "/post/eslii/ch08/ch08_07.zh.md" >}})
   8. [模型平均和堆叠（stacking）]({{< ref "/post/eslii/ch08/ch08_08.zh.md" >}})
   9. [随机搜索：Bumping]({{< ref "/post/eslii/ch08/ch08_09.zh.md" >}})
-9. Additive Models, Trees, and Related Methods
-  1. [Generalized Additive Models]
+9. [加性模型、树模型和相关方法]({{< ref "/post/eslii/ch09/ch09_00.zh.md" >}})
+  1. [广义加性模型]
   2. [Tree-Based Methods]
   3. [PRIM: Bump Hunting]
   4. [MARS: Multivariate Adaptive Regression Splines]
