@@ -3,7 +3,7 @@ title = "统计学习基础：英文术语中译"
 summary = "“统计学习基础”（ESL）一书中的专业术语的中英文对照，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2018-12-27T15:13:00+08:00
+lastmod = 2018-12-30T19:02:00+08:00
 draft = false
 math = false
 
@@ -45,6 +45,7 @@ preview = true
 | filter | 滤波 |  |  |
 | forward | 前向 |  | 西瓜书-248 |
 | generalization | 泛化 |  | 西瓜书 |
+| generalized additive model | 广义加性模型 |  |  |
 | generative model | 生成模型 |  | [维基](https://zh.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B) |
 | Gibbs sampling |  |  |  |
 | indicator function | 指示函数 |  | [维基](https://zh.wikipedia.org/wiki/%E6%8C%87%E7%A4%BA%E5%87%BD%E6%95%B0) |
@@ -56,6 +57,7 @@ preview = true
 | learner | 学习器 |  | 西瓜书-p2 |
 | least squares | 最小二乘 | [2.3]({{< ref "/post/eslii/ch02/ch02_03.zh.md" >}}) |  |
 | linear discriminant analysis | 线性判别分析 |  | [维基](https://zh.wikipedia.org/wiki/%E7%B7%9A%E6%80%A7%E5%88%A4%E5%88%A5%E5%88%86%E6%9E%90) |
+| link function | 联系函数 |  | 西瓜书 |
 | local regression |  |  |  |
 | logistic regression | 对数几率回归（逻辑回归） | [4.4] | [维基](https://zh.wikipedia.org/wiki/%E9%82%8F%E8%BC%AF%E8%BF%B4%E6%AD%B8) |
 | maximum likelihood |  |  |  |
