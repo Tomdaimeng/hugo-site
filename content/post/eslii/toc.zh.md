@@ -3,7 +3,7 @@ title = "统计学习基础：目录索引"
 summary = "“统计学习基础”（ESL）一书的章节目录索引，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2018-12-30T19:02:00+08:00
+lastmod = 2019-01-01T21:10:00+08:00
 draft = false
 math = true
 
@@ -93,7 +93,7 @@ preview = true
   9. [随机搜索：Bumping]({{< ref "/post/eslii/ch08/ch08_09.zh.md" >}})
 9. [加性模型、树模型和相关方法]({{< ref "/post/eslii/ch09/ch09_00.zh.md" >}})
   1. [广义加性模型]({{< ref "/post/eslii/ch09/ch09_01.zh.md" >}})
-  2. [Tree-Based Methods]
+  2. [树结构模型]({{< ref "/post/eslii/ch09/ch09_02.zh.md" >}})
   3. [PRIM: Bump Hunting]
   4. [MARS: Multivariate Adaptive Regression Splines]
   5. [Hierarchical Mixtures of Experts]
