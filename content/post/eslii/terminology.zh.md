@@ -3,7 +3,7 @@ title = "统计学习基础：英文术语中译"
 summary = "“统计学习基础”（ESL）一书中的专业术语的中英文对照，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2018-12-30T19:02:00+08:00
+lastmod = 2019-01-02T18:06:00+08:00
 draft = false
 math = false
 
@@ -60,6 +60,7 @@ preview = true
 | link function | 联系函数 |  | 西瓜书 |
 | local regression |  |  |  |
 | logistic regression | 对数几率回归（逻辑回归） | [4.4] | [维基](https://zh.wikipedia.org/wiki/%E9%82%8F%E8%BC%AF%E8%BF%B4%E6%AD%B8) |
+| MARS |  |  |  |
 | maximum likelihood |  |  |  |
 | minimum description length | 最小描述长度 |  |  |
 | nearest neighbors | 最近邻域、近邻 |  | [维基](https://zh.wikipedia.org/wiki/%E6%9C%80%E8%BF%91%E9%84%B0%E5%B1%85%E6%B3%95) 西瓜书-p225 |
@@ -67,6 +68,7 @@ preview = true
 | overfitting |  |  |  |
 | penalization |  |  |  |
 | piecewise | 分段 |  |  |
+| PRIM | 耐心规则归纳方法 |  |  |
 | project pursuit | 投影寻踪 |  |  |
 | regression | 分类 |  |  |
 | regularization |  |  |  |
