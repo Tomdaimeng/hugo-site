@@ -64,6 +64,8 @@ preview = true
 | MARS |  |  |  |
 | maximum likelihood |  |  |  |
 | minimum description length | 最小描述长度 |  |  |
+| missing at random，MAR | 随机缺失 |  |  |
+| missing completely at random，MCAR | 完全随机缺失 |  |  |
 | nearest neighbors | 最近邻域、近邻 |  | [维基](https://zh.wikipedia.org/wiki/%E6%9C%80%E8%BF%91%E9%84%B0%E5%B1%85%E6%B3%95) 西瓜书-p225 |
 | orthogonality | 正交 |  | [维基](https://zh.wikipedia.org/wiki/%E6%AD%A3%E4%BA%A4) |
 | overfitting |  |  |  |

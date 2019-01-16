@@ -97,8 +97,8 @@ preview = true
   3. [PRIM（耐心规则归纳方法）：凸块搜索]({{< ref "/post/eslii/ch09/ch09_03.zh.md" >}})
   4. [多元自适应回归样条（MARS）]({{< ref "/post/eslii/ch09/ch09_04.zh.md" >}})
   5. [层级混合专家]({{< ref "/post/eslii/ch09/ch09_05.zh.md" >}})
-  6. [Missing Data]
-  7. [Computational Considerations]
+  6. [缺失数据]({{< ref "/post/eslii/ch09/ch09_06.zh.md" >}})
+  7. [计算量考量]
 10. Boosting and Additive Trees
   1. [提升方法]()
   2. [Boosting Fits an Additive Model]()
