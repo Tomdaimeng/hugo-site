@@ -3,7 +3,7 @@ title = "统计学习基础：英文术语中译"
 summary = "“统计学习基础”（ESL）一书中的专业术语的中英文对照，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2019-01-16T15:05:00+08:00
+lastmod = 2019-01-16T17:00:00+08:00
 draft = false
 math = false
 
@@ -22,7 +22,7 @@ preview = true
 | ---- | ---- | ---- | -------- |
 | additive model | 加性模型 | c | 西瓜书 |
 | apparent error | 表现误差 | c | d |
-| backfitting |  |  |  |
+| backfitting | 回修 |  |  |
 | backward | 后向 |  | 西瓜书-248 |
 | bagging（boosting aggregating） | 装袋，自助聚合 | c | d |
 | Bayes factor | 贝叶斯因子 | [7.7]({{< ref "/post/eslii/ch07/ch07_07.zh.md" >}}) |  |
