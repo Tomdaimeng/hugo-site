@@ -3,7 +3,7 @@ title = "统计学习基础：英文术语中译"
 summary = "“统计学习基础”（ESL）一书中的专业术语的中英文对照，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2019-01-02T18:06:00+08:00
+lastmod = 2019-01-16T15:05:00+08:00
 draft = false
 math = false
 
@@ -48,6 +48,7 @@ preview = true
 | generalized additive model | 广义加性模型 |  |  |
 | generative model | 生成模型 |  | [维基](https://zh.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B) |
 | Gibbs sampling |  |  |  |
+| hierarchical mixtures of experts，HME | 层级混合专家 |  |  |
 | indicator function | 指示函数 |  | [维基](https://zh.wikipedia.org/wiki/%E6%8C%87%E7%A4%BA%E5%87%BD%E6%95%B0) |
 | k-fold | k 折  |  |  |
 | kernel method |  |  |  |

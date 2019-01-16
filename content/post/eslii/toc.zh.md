@@ -3,7 +3,7 @@ title = "统计学习基础：目录索引"
 summary = "“统计学习基础”（ESL）一书的章节目录索引，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2019-01-12T14:38:00+08:00
+lastmod = 2019-01-16T15:05:00+08:00
 draft = false
 math = true
 
@@ -96,7 +96,7 @@ preview = true
   2. [树结构模型]({{< ref "/post/eslii/ch09/ch09_02.zh.md" >}})
   3. [PRIM（耐心规则归纳方法）：凸块搜索]({{< ref "/post/eslii/ch09/ch09_03.zh.md" >}})
   4. [多元自适应回归样条（MARS）]({{< ref "/post/eslii/ch09/ch09_04.zh.md" >}})
-  5. [Hierarchical Mixtures of Experts]
+  5. [层级混合专家]({{< ref "/post/eslii/ch09/ch09_05.zh.md" >}})
   6. [Missing Data]
   7. [Computational Considerations]
 10. Boosting and Additive Trees
