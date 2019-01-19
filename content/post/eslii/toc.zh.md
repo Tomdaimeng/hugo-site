@@ -3,7 +3,7 @@ title = "统计学习基础：目录索引"
 summary = "“统计学习基础”（ESL）一书的章节目录索引，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2019-01-17T20:40:00+08:00
+lastmod = 2019-01-19T19:00:00+08:00
 draft = false
 math = true
 
@@ -101,7 +101,7 @@ preview = true
   7. [计算量考量]({{< ref "/post/eslii/ch09/ch09_07.zh.md" >}})
 10. Boosting and Additive Trees
   1. [提升方法]({{< ref "/post/eslii/ch10/ch10_01.zh.md" >}})
-  2. [Boosting Fits an Additive Model]()
+  2. [提升方法是一个加性模型的拟合]({{< ref "/post/eslii/ch10/ch10_02.zh.md" >}})
   3. [Forward Stagewise Additive Modeling]()
   4. [Exponential Loss and AdaBoost]()
   5. [Why Exponential Loss?]()

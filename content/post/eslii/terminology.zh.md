@@ -3,7 +3,7 @@ title = "统计学习基础：英文术语中译"
 summary = "“统计学习基础”（ESL）一书中的专业术语的中英文对照，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2019-01-17T20:40:00+08:00
+lastmod = 2019-01-19T19:00:00+08:00
 draft = false
 math = false
 
@@ -78,6 +78,7 @@ preview = true
 | ridge regression | 岭回归 | [3.4]({{< ref "/post/eslii/ch03/ch03_04.zh.md" >}}) | 西瓜书-p252 |
 | robustness | 稳健性 |  |  |
 | shrink | 收缩 | c | 西瓜书-p252 |
+| sigmoid function | S 函数 |  |  |
 | spline | 样条 |  | [维基](https://zh.wikipedia.org/wiki/%E6%A0%B7%E6%9D%A1%E5%87%BD%E6%95%B0) |
 | standardize (inputs) | 标准化  |  |  |
 | standardized (regression) coefficients | 标准（回归）系数  |  |  |
