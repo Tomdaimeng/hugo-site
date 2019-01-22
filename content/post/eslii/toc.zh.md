@@ -3,7 +3,7 @@ title = "统计学习基础：目录索引"
 summary = "“统计学习基础”（ESL）一书的章节目录索引，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2019-01-19T20:47:00+08:00
+lastmod = 2019-01-22T12:46:00+08:00
 draft = false
 math = true
 
@@ -104,7 +104,7 @@ preview = true
   2. [提升方法是一个加性模型的拟合]({{< ref "/post/eslii/ch10/ch10_02.zh.md" >}})
   3. [前向分段加性模型]({{< ref "/post/eslii/ch10/ch10_03.zh.md" >}})
   4. [指数损失函数与自适应提升]({{< ref "/post/eslii/ch10/ch10_04.zh.md" >}})
-  5. [Why Exponential Loss?]()
+  5. [为何用指数损失函数？]({{< ref "/post/eslii/ch10/ch10_05.zh.md" >}})
   6. [Loss Functions and Robustness]
   7. ["Off-the-Shelf" Procedures for Data Mining]
   8. [Example: Spam Data]
