@@ -3,7 +3,7 @@ title = "统计学习基础：目录索引"
 summary = "“统计学习基础”（ESL）一书的章节目录索引，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2019-01-24T16:30:00+08:00
+lastmod = 2019-01-24T17:32:00+08:00
 draft = false
 math = true
 
@@ -107,7 +107,7 @@ preview = true
   5. [为何用指数损失函数？]({{< ref "/post/eslii/ch10/ch10_05.zh.md" >}})
   6. [损失函数和稳健性]({{< ref "/post/eslii/ch10/ch10_06.zh.md" >}})
   7. [数据挖掘中“现成”的方法]({{< ref "/post/eslii/ch10/ch10_07.zh.md" >}})
-  8. [Example: Spam Data]
+  8. [示例：垃圾邮件数据]({{< ref "/post/eslii/ch10/ch10_08.zh.md" >}})
   9. [Boosting Trees]
   10. [Numerical Optimization via Gradient Boosting]
   11. [Right-Sized Trees for Boosting]

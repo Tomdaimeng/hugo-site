@@ -63,6 +63,7 @@ preview = true
 | logistic regression | 对数几率回归（逻辑回归） | [4.4] | [维基](https://zh.wikipedia.org/wiki/%E9%82%8F%E8%BC%AF%E8%BF%B4%E6%AD%B8) |
 | MARS |  |  |  |
 | maximum likelihood |  |  |  |
+| McNemar's test | 麦克尼马尔检验 |  |  |
 | minimum description length | 最小描述长度 |  |  |
 | missing at random，MAR | 随机缺失 |  |  |
 | missing completely at random，MCAR | 完全随机缺失 |  |  |
