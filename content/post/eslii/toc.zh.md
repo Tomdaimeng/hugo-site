@@ -3,7 +3,7 @@ title = "统计学习基础：目录索引"
 summary = "“统计学习基础”（ESL）一书的章节目录索引，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2019-01-27T16:10:00+08:00
+lastmod = 2019-01-28T13:09:00+08:00
 draft = false
 math = true
 
@@ -109,7 +109,7 @@ preview = true
   7. [数据挖掘中“现成”的方法]({{< ref "/post/eslii/ch10/ch10_07.zh.md" >}})
   8. [示例：垃圾邮件数据]({{< ref "/post/eslii/ch10/ch10_08.zh.md" >}})
   9. [提升树模型]({{< ref "/post/eslii/ch10/ch10_09.zh.md" >}})
-  10. [Numerical Optimization via Gradient Boosting]
+  10. [通过梯度提升进行数值最优化]({{< ref "/post/eslii/ch10/ch10_10.zh.md" >}})
   11. [Right-Sized Trees for Boosting]
   12. [Regularization]
   13. [Interpretation]
