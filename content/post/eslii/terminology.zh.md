@@ -62,6 +62,7 @@ preview = true
 | link function | 联系函数 |  | 西瓜书 |
 | local regression |  |  |  |
 | logistic regression | 对数几率回归（逻辑回归） | [4.4] | [维基](https://zh.wikipedia.org/wiki/%E9%82%8F%E8%BC%AF%E8%BF%B4%E6%AD%B8) |
+| main effect | 主效应 |  |  |
 | MARS |  |  |  |
 | maximum likelihood |  |  |  |
 | McNemar's test | 麦克尼马尔检验 |  |  |
