@@ -3,7 +3,7 @@ title = "统计学习基础：目录索引"
 summary = "“统计学习基础”（ESL）一书的章节目录索引，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2019-01-31T23:30:00+08:00
+lastmod = 2019-02-01T23:52:00+08:00
 draft = false
 math = true
 
@@ -113,7 +113,7 @@ preview = true
   11. [提升方法中树模型的合理大小]({{< ref "/post/eslii/ch10/ch10_11.zh.md" >}})
   12. [正则化]({{< ref "/post/eslii/ch10/ch10_12.zh.md" >}})
   13. [模型解释]({{< ref "/post/eslii/ch10/ch10_13.zh.md" >}})
-  14. [Illustrations]
+  14. [示例]({{< ref "/post/eslii/ch10/ch10_14.zh.md" >}})
 11. Neural Networks
 12. Support Vector Machines and Flexible Discriminants
 13. Prototype Methods and Nearest-Neighbors
