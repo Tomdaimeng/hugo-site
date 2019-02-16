@@ -3,7 +3,7 @@ title = "统计学习基础：英文术语中译"
 summary = "“统计学习基础”（ESL）一书中的专业术语的中英文对照，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2019-02-16T11:13:00+08:00
+lastmod = 2019-02-16T16:55:00+08:00
 draft = false
 math = false
 
@@ -70,6 +70,8 @@ preview = true
 | missing at random，MAR | 随机缺失 |  |  |
 | missing completely at random，MCAR | 完全随机缺失 |  |  |
 | nearest neighbors | 最近邻域、近邻 |  | [维基](https://zh.wikipedia.org/wiki/%E6%9C%80%E8%BF%91%E9%84%B0%E5%B1%85%E6%B3%95) 西瓜书-p225 |
+| neural network | 神经网络 | 11.3 |  |
+| neuron | 神经元 | 11.3 |  |
 | orthogonality | 正交 |  | [维基](https://zh.wikipedia.org/wiki/%E6%AD%A3%E4%BA%A4) |
 | overfitting |  |  |  |
 | penalization |  |  |  |
