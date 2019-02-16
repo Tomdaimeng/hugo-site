@@ -3,7 +3,7 @@ title = "统计学习基础：目录索引"
 summary = "“统计学习基础”（ESL）一书的章节目录索引，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2019-02-15T19:09:00+08:00
+lastmod = 2019-02-16T11:13:00+08:00
 draft = false
 math = true
 
@@ -116,6 +116,7 @@ preview = true
   14. [示例]({{< ref "/post/eslii/ch10/ch10_14.zh.md" >}})
 11. 神经网络
   1. [引言]({{< ref "/post/eslii/ch11/ch11_01.zh.md" >}})
+  2. [投影寻踪回归]({{< ref "/post/eslii/ch11/ch11_02.zh.md" >}})
 12. Support Vector Machines and Flexible Discriminants
 13. Prototype Methods and Nearest-Neighbors
 14. Unsupervised Learning

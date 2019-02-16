@@ -3,7 +3,7 @@ title = "统计学习基础：英文术语中译"
 summary = "“统计学习基础”（ESL）一书中的专业术语的中英文对照，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2019-01-31T16:22:00+08:00
+lastmod = 2019-02-16T11:13:00+08:00
 draft = false
 math = false
 
@@ -75,7 +75,7 @@ preview = true
 | penalization |  |  |  |
 | piecewise | 分段 |  |  |
 | PRIM | 耐心规则归纳方法 |  |  |
-| project pursuit | 投影寻踪 |  |  |
+| project pursuit | 投影寻踪 | 11.2 |  |
 | regression | 分类 |  |  |
 | regularization |  |  |  |
 | ridge regression | 岭回归 | [3.4]({{< ref "/post/eslii/ch03/ch03_04.zh.md" >}}) | 西瓜书-p252 |
@@ -90,6 +90,7 @@ preview = true
 | supervised learning | 监督学习 | [1]({{< ref "/post/eslii/ch01/ch01_00.zh.md" >}}) | [维基](https://zh.wikipedia.org/wiki/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0) 西瓜书-p3 |
 | transform | 变换 |  |  |
 | underfitting |  |  |  |
+| universal approximator | 泛逼近器 | 11.2 |  |
 | unsupervised learning | 无监督学习 | c | [维基](https://zh.wikipedia.org/wiki/%E9%9D%9E%E7%9B%A3%E7%9D%A3%E5%BC%8F%E5%AD%B8%E7%BF%92) 西瓜书-p3 |
 | Vapnik–Chervonenkis | 万普尼克-泽范兰杰斯 | [7.9]({{< ref "/post/eslii/ch07/ch07_09.zh.md" >}}) |  |
 | wavelet | 小波 |  | [维基](https://zh.wikipedia.org/wiki/%E5%B0%8F%E6%B3%A2%E5%88%86%E6%9E%90) |
