@@ -118,6 +118,7 @@ preview = true
   1. [引言]({{< ref "/post/eslii/ch11/ch11_01.zh.md" >}})
   2. [投影寻踪回归]({{< ref "/post/eslii/ch11/ch11_02.zh.md" >}})
   3. [神经网络]({{< ref "/post/eslii/ch11/ch11_03.zh.md" >}})
+  4. [神经网络的拟合]({{< ref "/post/eslii/ch11/ch11_04.zh.md" >}})
 12. Support Vector Machines and Flexible Discriminants
 13. Prototype Methods and Nearest-Neighbors
 14. Unsupervised Learning

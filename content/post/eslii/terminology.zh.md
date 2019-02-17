@@ -3,7 +3,7 @@ title = "统计学习基础：英文术语中译"
 summary = "“统计学习基础”（ESL）一书中的专业术语的中英文对照，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2019-02-16T16:55:00+08:00
+lastmod = 2019-02-17T13:26:00+08:00
 draft = false
 math = false
 
@@ -22,8 +22,10 @@ preview = true
 | ---- | ---- | ---- | -------- |
 | additive model | 加性模型 | c | 西瓜书 |
 | apparent error | 表现误差 | c | d |
+| back propagation | 反向传播 | 11.4 |  |
 | backfitting | 回修 |  |  |
 | backward | 后向 |  | 西瓜书-248 |
+| batch learning | 批量学习 | 11.4 |  |
 | bagging（boosting aggregating） | 装袋，自助聚合 | c | d |
 | Bayes factor | 贝叶斯因子 | [7.7]({{< ref "/post/eslii/ch07/ch07_07.zh.md" >}}) |  |
 | Bayes rate | 贝叶斯错误率 |  | [维基](https://zh.wikipedia.org/wiki/%E8%B4%9D%E5%8F%B6%E6%96%AF%E9%94%99%E8%AF%AF%E7%8E%87) |
@@ -75,6 +77,7 @@ preview = true
 | orthogonality | 正交 |  | [维基](https://zh.wikipedia.org/wiki/%E6%AD%A3%E4%BA%A4) |
 | overfitting |  |  |  |
 | penalization |  |  |  |
+| perceptron | 感知器 | 11.3 |  |
 | piecewise | 分段 |  |  |
 | PRIM | 耐心规则归纳方法 |  |  |
 | project pursuit | 投影寻踪 | 11.2 |  |
@@ -88,7 +91,10 @@ preview = true
 | standardize (inputs) | 标准化  |  |  |
 | standardized (regression) coefficients | 标准（回归）系数  |  |  |
 | stacking | 堆叠 |  |  |
+| stochastic approximation | 随机逼近 | 11.4 |  |
 | stump | 树桩 |  |  |
+| supervised learning | 监督学习 | [1]({{< ref "/post/eslii/ch01/ch01_00.zh.md" >}}) | [维基](https://zh.wikipedia.org/wiki/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0) 西瓜书-p3 |
+| synapse | 神经突触 | 11.3 |  |
 | supervised learning | 监督学习 | [1]({{< ref "/post/eslii/ch01/ch01_00.zh.md" >}}) | [维基](https://zh.wikipedia.org/wiki/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0) 西瓜书-p3 |
 | transform | 变换 |  |  |
 | underfitting |  |  |  |
