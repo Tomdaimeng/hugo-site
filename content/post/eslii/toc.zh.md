@@ -3,7 +3,7 @@ title = "统计学习基础：目录索引"
 summary = "“统计学习基础”（ESL）一书的章节目录索引，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2019-02-18T16:06:00+08:00
+lastmod = 2019-02-18T21:07:00+08:00
 draft = false
 math = true
 
@@ -120,7 +120,7 @@ preview = true
   3. [神经网络]({{< ref "/post/eslii/ch11/ch11_03.zh.md" >}})
   4. [神经网络的拟合]({{< ref "/post/eslii/ch11/ch11_04.zh.md" >}})
   5. [训练神经网络的一些问题]({{< ref "/post/eslii/ch11/ch11_05.zh.md" >}})
-  6. [Example: Simulated Data]
+  6. [示例：模拟数据]({{< ref "/post/eslii/ch11/ch11_06.zh.md" >}})
   7. [Example: ZIP Code Data]
   8. [Discussion]
   9. [Bayesian Neural Nets and the NIPS 2003 Challenge]
