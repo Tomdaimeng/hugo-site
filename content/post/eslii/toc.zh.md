@@ -3,7 +3,7 @@ title = "统计学习基础：目录索引"
 summary = "“统计学习基础”（ESL）一书的章节目录索引，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2019-02-24T15:52:00+08:00
+lastmod = 2019-02-24T16:30:00+08:00
 draft = false
 math = true
 
@@ -122,7 +122,7 @@ preview = true
   5. [训练神经网络的一些问题]({{< ref "/post/eslii/ch11/ch11_05.zh.md" >}})
   6. [示例：模拟数据]({{< ref "/post/eslii/ch11/ch11_06.zh.md" >}})
   7. [示例：邮政编码数据]({{< ref "/post/eslii/ch11/ch11_07.zh.md" >}})
-  8. [Discussion]
+  8. [讨论]({{< ref "/post/eslii/ch11/ch11_08.zh.md" >}})
   9. [Bayesian Neural Nets and the NIPS 2003 Challenge]
   10. [Computational Considerations]
 12. Support Vector Machines and Flexible Discriminants
