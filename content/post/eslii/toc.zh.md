@@ -3,7 +3,7 @@ title = "统计学习基础：目录索引"
 summary = "“统计学习基础”（ESL）一书的章节目录索引，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2019-02-16T16:55:00+08:00
+lastmod = 2019-02-24T16:30:00+08:00
 draft = false
 math = true
 
@@ -119,10 +119,56 @@ preview = true
   2. [投影寻踪回归]({{< ref "/post/eslii/ch11/ch11_02.zh.md" >}})
   3. [神经网络]({{< ref "/post/eslii/ch11/ch11_03.zh.md" >}})
   4. [神经网络的拟合]({{< ref "/post/eslii/ch11/ch11_04.zh.md" >}})
+  5. [训练神经网络的一些问题]({{< ref "/post/eslii/ch11/ch11_05.zh.md" >}})
+  6. [示例：模拟数据]({{< ref "/post/eslii/ch11/ch11_06.zh.md" >}})
+  7. [示例：邮政编码数据]({{< ref "/post/eslii/ch11/ch11_07.zh.md" >}})
+  8. [讨论]({{< ref "/post/eslii/ch11/ch11_08.zh.md" >}})
+  9. [Bayesian Neural Nets and the NIPS 2003 Challenge]
+  10. [Computational Considerations]
 12. Support Vector Machines and Flexible Discriminants
+  1. [Introduction]
+  2. [The Support Vector Classifier]
+  3. [Support Vector Machines and Kernels]
+  4. [Generalizing Linear Discriminant Analysis]
+  5. [Flexible Discriminant Analysis]
+  6. [Penalized Discriminant Analysis]
+  7. [Mixture Discriminant Analysis]
 13. Prototype Methods and Nearest-Neighbors
+  1. [Introduction]
+  2. [Prototype Methods]
+  3. [k-Nearest-Neighbor Classifiers]
+  4. [Adaptive Nearest-Neighbor Methods]
+  5. [Computational Considerations]
 14. Unsupervised Learning
+  1. [Introduction]
+  2. [Association Rules]
+  3. [Cluster Analysis]
+  4. [Self-Organizing Maps]
+  5. [Principal Components, Curves and Surfaces]
+  6. [Non-negative Matrix Factorization]
+  7. [Independent Component Analysis]
+  8. [Multidimensional Scaling]
+  9. [Nonlinear Dimension Reduction and Local Multidimensional Scaling]
+  10. [The Google PageRank Algorithm]
 15. Random Forests
+  1. [Introduction]
+  2. [Definition of Random Forests]
+  3. [Details of Random Forests]
+  4. [Analysis of Random Forests]
 16. Ensemble Learning
+  1. [Introduction]
+  2. [Boosting and Regularization Paths]
+  3. [Learning Ensembles]
 17. Undirected Graphical Models
-18. High-Dimensional Problems: p ≫ N
+  1. [Introduction]
+  2. [Markov Graphs and Their Properties]
+  3. [Undirected Graphical Models for Continuous Variables]
+  4. [Undirected Graphical Models for Discrete Variables]
+18. High-Dimensional Problems: $p \gg N$
+  1. [When $p$ is Much Bigger than $N$]
+  2. [Diagonal Linear Discriminant Analysis and Nearest Shrunken Centroids]
+  3. [Linear Classifiers with Quadratic Regularization]
+  4. [Linear Classifiers with $\text{L}\_1$ Regularization]
+  5. [Classification When Features are Unavailable]
+  6. [High-Dimensional Regression: Supervised Principal Components]
+  7. [Feature Assessment and the Multiple-Testing Problem]
