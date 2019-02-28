@@ -3,7 +3,7 @@ title = "统计学习基础：目录索引"
 summary = "“统计学习基础”（ESL）一书的章节目录索引，随完成进度更新。"
 
 date = 2018-08-27T15:18:10+08:00
-lastmod = 2019-02-28T16:08:00+08:00
+lastmod = 2019-02-28T16:20:00+08:00
 draft = false
 math = true
 
@@ -124,7 +124,7 @@ preview = true
   7. [示例：邮政编码数据]({{< ref "/post/eslii/ch11/ch11_07.zh.md" >}})
   8. [讨论]({{< ref "/post/eslii/ch11/ch11_08.zh.md" >}})
   9. [贝叶斯神经网络和 NIPS 2003 挑战赛]({{< ref "/post/eslii/ch11/ch11_09.zh.md" >}})
-  10. [Computational Considerations]
+  10. [计算量考量]({{< ref "/post/eslii/ch11/ch11_10.zh.md" >}})
 12. Support Vector Machines and Flexible Discriminants
   1. [Introduction]
   2. [The Support Vector Classifier]
