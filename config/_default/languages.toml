@@ -1,0 +1,26 @@
+# Languages
+#   Create a `[X]` block for each language you want, where X is the language ID.
+#   Refer to https://sourcethemes.com/academic/docs/language/
+
+# Configure the English version of the site.
+[en]
+  languageCode = "en-us"
+  title = "WANG Guansong"
+  copyright = "&copy; 2019 Wang Guansong"
+  address = "Booth 3721, Zhongguancun Plaza, Beijing, China"
+  office_hours = "007"
+
+# Uncomment the lines below to configure your website in a second language.
+[zh]
+  languageCode = "zh-Hans"
+#  contentDir = "content/zh"
+  title = "王冠嵩"
+  copyright = "&copy; 2019 王冠嵩"
+  address = "北京中关村广场摊位 3721"
+  office_hours = "007"
+#  [zh.params]
+#    description = "Site description in Chinese..."
+#  [[zh.menu.main]]
+#    name = "Wo"
+#    url = "#about"
+#    weight = 1

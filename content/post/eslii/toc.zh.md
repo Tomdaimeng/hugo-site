@@ -125,8 +125,8 @@ preview = true
   8. [讨论]({{< ref "/post/eslii/ch11/ch11_08.zh.md" >}})
   9. [贝叶斯神经网络和 NIPS 2003 挑战赛]({{< ref "/post/eslii/ch11/ch11_09.zh.md" >}})
   10. [计算量考量]({{< ref "/post/eslii/ch11/ch11_10.zh.md" >}})
-12. Support Vector Machines and Flexible Discriminants
-  1. [Introduction]
+12. 支持向量机和灵活判别
+  1. [引言]
   2. [The Support Vector Classifier]
   3. [Support Vector Machines and Kernels]
   4. [Generalizing Linear Discriminant Analysis]
@@ -134,13 +134,13 @@ preview = true
   6. [Penalized Discriminant Analysis]
   7. [Mixture Discriminant Analysis]
 13. Prototype Methods and Nearest-Neighbors
-  1. [Introduction]
+  1. [引言]
   2. [Prototype Methods]
   3. [k-Nearest-Neighbor Classifiers]
   4. [Adaptive Nearest-Neighbor Methods]
   5. [Computational Considerations]
 14. Unsupervised Learning
-  1. [Introduction]
+  1. [引言]
   2. [Association Rules]
   3. [Cluster Analysis]
   4. [Self-Organizing Maps]
@@ -151,16 +151,16 @@ preview = true
   9. [Nonlinear Dimension Reduction and Local Multidimensional Scaling]
   10. [The Google PageRank Algorithm]
 15. Random Forests
-  1. [Introduction]
+  1. [引言]
   2. [Definition of Random Forests]
   3. [Details of Random Forests]
   4. [Analysis of Random Forests]
 16. Ensemble Learning
-  1. [Introduction]
+  1. [引言]
   2. [Boosting and Regularization Paths]
   3. [Learning Ensembles]
 17. Undirected Graphical Models
-  1. [Introduction]
+  1. [引言]
   2. [Markov Graphs and Their Properties]
   3. [Undirected Graphical Models for Continuous Variables]
   4. [Undirected Graphical Models for Discrete Variables]
