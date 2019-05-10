@@ -9,7 +9,7 @@ summary = """
 """
 
 date = 2019-05-10T22:36:00+08:00
-lastmod = 2019-05-10T22:36:00+08:00
+lastmod = 2019-05-10T22:49:00+08:00
 draft = false
 math = false
 
@@ -196,25 +196,37 @@ image = "http://images.guansong.wang/2019/20190301_Misc/IMG_20190310_171944.jpg@
 caption = "在果汁店，读到了来自小学生的告白。"
 [[gallery_item]]
 album = "bad_taste"
+image = "http://images.guansong.wang/2019/20190301_Misc/IMG_20190331_131741.jpg@!original"
+caption = "树上掉下来的奇怪的果实。"
+[[gallery_item]]
+album = "bad_taste"
 image = "http://images.guansong.wang/2019/20190301_Misc/IMG_20190330_113755.jpg@!original"
 caption = "一个铲车开进了房间里。"
 [[gallery_item]]
 album = "bad_taste"
 image = "http://images.guansong.wang/2019/20190301_Misc/IMG_20190312_141205.jpg@!original"
 caption = "一包猫薄荷，不知道带着出门会不会被警察抓。"
-
 [[gallery_item]]
-album = "shenzhen"
-image = "http://images.guansong.wang/2019/20190301_Misc/IMG_20190317_142937.jpg@!original"
-caption = "北方的大葱，这里叫做“京葱”。"
+album = "bad_taste"
+image = "http://images.guansong.wang/2019/20190301_Misc/IMG_20190331_132650.jpg@!original"
+caption = "人工智能体验店。"
+
 [[gallery_item]]
 album = "shenzhen"
 image = "http://images.guansong.wang/2019/20190301_Misc/IMG_20190324_212259.jpg@!original"
 caption = "一家小店，晚上会在墙上投影电影，很多大人小孩坐在路边看。"
 [[gallery_item]]
 album = "shenzhen"
+image = "http://images.guansong.wang/2019/20190301_Misc/IMG_20190317_142937.jpg@!original"
+caption = "北方的大葱，这里叫做“京葱”。"
+[[gallery_item]]
+album = "shenzhen"
 image = "http://images.guansong.wang/2019/20190301_Misc/IMG_20190317_095148.jpg@!original"
 caption = "墙头上睡觉的小猫。"
+[[gallery_item]]
+album = "shenzhen"
+image = "http://images.guansong.wang/2019/20190301_Misc/IMG_20190331_203714.jpg@!original"
+caption = "在宜家买的罗汉松，希望它们能长成大树。"
 
 [[gallery_item]]
 album = "people"
