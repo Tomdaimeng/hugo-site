@@ -15,12 +15,12 @@
 
 [[main]]
   name = "相册"
-  url = "/gallery/"
+  url = "gallery/"
   weight = 21
 
 [[main]]
   name = "关于"
-  url = "/about/"
+  url = "about/"
   weight = 22
 
 # [[main]]

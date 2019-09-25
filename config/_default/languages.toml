@@ -7,8 +7,11 @@
   languageCode = "en-us"
   title = "WANG Guansong"
   copyright = "&copy; 2019 Wang Guansong"
-  address = "Booth 3721, Zhongguancun Plaza, Beijing, China"
-  office_hours = "007"
+  # address = "Booth 3721, Zhongguancun Plaza, Beijing, China"
+  # Address
+  # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
+  address = {street = "New Wuhe Village", city = "Shenzhen", region = "Guangdong", postcode = "58000", country = "P.R. China", country_code = "CN"}
+  directions = "Just yell my name when you are at the street."
 
 # Uncomment the lines below to configure your website in a second language.
 [zh]
@@ -16,8 +19,9 @@
 #  contentDir = "content/zh"
   title = "王冠嵩"
   copyright = "&copy; 2019 王冠嵩"
-  address = "北京中关村广场摊位 3721"
-  office_hours = "007"
+  # address = "北京中关村广场摊位 3721"
+  address = {street = "五和新村", city = "深圳关外", region = "广东", postcode = "58000", country = "中国", country_code = "CN"}
+  directions = "村头喊我名字。"
 #  [zh.params]
 #    description = "Site description in Chinese..."
 #  [[zh.menu.main]]
