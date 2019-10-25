@@ -9,7 +9,7 @@ summary = """
 """
 
 date = 2019-05-10T22:36:00+08:00
-lastmod = 2019-05-10T22:49:00+08:00
+lastmod = 2019-10-24T13:11:00+08:00
 draft = false
 math = false
 
@@ -24,7 +24,7 @@ caption = "一个女孩藏在福海湖边的山头上静静地看书，夕阳把
 [[gallery_item]]
 album = "ymy_beauty"
 image = "http://images.guansong.wang/2019/20190301_Misc/IMG_20190306_175354.jpg@!original"
-caption = "在到水边看看福海上的落日。"
+caption = "再到水边看看福海上的落日。"
 [[gallery_item]]
 album = "ymy_beauty"
 image = "http://images.guansong.wang/2019/20190301_Misc/DSC00471.JPG@!original"
@@ -172,7 +172,7 @@ caption = "在亚马逊买的蓝牙耳机，回国后进单元门的时候碰坏
 [[gallery_item]]
 album = "crap"
 image = "http://images.guansong.wang/2019/20190301_Misc/IMG_20190310_191331.jpg@!original"
-caption = "看了疯狂的石头后，就像买一件前面写着牌子班尼路的衣服。已经被我穿成漏背装了。"
+caption = "看了疯狂的石头后，就想买一件前面写着牌子班尼路的衣服。已经被我穿成漏背装了。"
 [[gallery_item]]
 album = "crap"
 image = "http://images.guansong.wang/2019/20190301_Misc/IMG_20190313_134928.jpg@!original"
@@ -300,7 +300,7 @@ caption = "“审查”。一看上去就是在南方，却也说不准是为什
 {{< gallery album="ymy_odd_eye" >}}
 
 真的是各种各样的猫都有。
-像一尊小佛的三花，威武的大黑，叫声非常温柔的一定是木毛的长毛，
+像一尊小佛的三花，威武的大黑，叫声非常温柔的一定是母猫的长毛，
 看起来很蠢的简州，还有我想叫它胖虎的黑白猫。
 
 {{< gallery album="ymy_cats" >}}
