@@ -7,14 +7,14 @@ I visited Lianhuashan (Lotus Hill) park.
 I was impressed by the variety of the plants that I barely saw before.
 """
 
-date = 2019-10-25T13:12:00+08:00
-lastmod = 2019-10-25T13:12:00+08:00
+date = 2019-10-26T13:12:00+08:00
+lastmod = 2019-10-26T13:12:00+08:00
 draft = false
 math = false
 
 authors = ["Butters"]
 tags = ["photo", "2019"]
-categories = ["Monthly Selected Photos"]
+categories = []
 
 [[gallery_item]]
 album = "plant"
