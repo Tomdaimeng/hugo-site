@@ -8,7 +8,7 @@ summary = """
 """
 
 date = 2019-06-15T18:44:00+08:00
-lastmod = 2019-06-15T18:44:00+08:00
+lastmod = 2019-11-04T13:29:00+08:00
 draft = false
 math = false
 
@@ -263,7 +263,7 @@ caption = "浅滩中觅食的白鹭。"
 [[gallery_item]]
 album = "scene"
 image = "http://images.guansong.wang/2019/20190401_Misc/IMG_20190428_124140.jpg@!original"
-caption = "世界公园的埃菲尔铁塔。"
+caption = "世界之窗的埃菲尔铁塔。"
 
 +++
 
