@@ -10,7 +10,7 @@ summary = """
 """
 
 date = 2019-06-30T17:18:00+08:00
-lastmod = 2019-06-30T17:18:00+08:00
+lastmod = 2019-11-07T13:18:00+08:00
 draft = false
 math = false
 
@@ -158,7 +158,7 @@ caption = "“我是猫”清酒具一套。"
 [[gallery_item]]
 album = "butters_crap"
 image = "http://images.guansong.wang/2019/20190501_Misc/IMG_20190518_192144.jpg@!original"
-caption = "被西西弗的猫设计勾引，我买了一本“我是猫”、一个购物袋和一套清酒具。店员嘱咐我说酒瓶可以插画，大概看我不像能喝酒的人。"
+caption = "被西西弗的猫设计勾引，我买了一本“我是猫”、一个购物袋和一套清酒具。店员嘱咐我说酒瓶可以插花，大概看我不像能喝酒的人。"
 [[gallery_item]]
 album = "butters_crap"
 image = "http://images.guansong.wang/2019/20190501_Misc/IMG_20190514_221331.jpg@!original"
@@ -347,7 +347,7 @@ Eva 还认识我，看到我进门没有跑开躲起来。
 
 ### Butters 的晨跑
 
-最近尝试早起上山跑步，绕着南坑水库跑一圈。
+最近尝试早起上山跑步，绕着雅宝水库跑一圈。
 虽然从里程上看只有不到 4 公里，但山路跑起来真的很考验心肺。
 跑完到庙里休息一下，闻闻香火，早上从没有在庙里见到过那只小猫。
 
