@@ -109,7 +109,3 @@ Recently I'm reading
 And I transalte and add notes to the chapters along the way.
 Here's the [table of content](https://web.stanford.edu/~hastie/ElemStatLearn/),
 which will take you to the chinese site.
-
-I'm coming back, here is résumé:
-[online](http://guansong.wang/resume/resume_en_latest.html), 
-[pdf](http://public.guansong.wang/resume/resume_wangguansong_en_latest.pdf).
