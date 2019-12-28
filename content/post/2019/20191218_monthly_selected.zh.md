@@ -8,7 +8,7 @@ summary = """
 """
 
 date = 2019-12-18T13:30:00+08:00
-lastmod = 2019-12-18T13:30:00+08:00
+lastmod = 2019-12-28T21:20:00+08:00
 draft = false
 math = false
 
@@ -72,7 +72,7 @@ caption = "练习两天后的成绩。"
 [[gallery_item]]
 album = "lunchbox"
 image = "http://images.guansong.wang/2019/20191101_Misc/IMG_20191117_190650.jpg@!original"
-caption = "东北人难掩屯玉米的欲望，像用绳子挂在门框上。"
+caption = "东北人难掩屯玉米的欲望，想用绳子挂在门框上。"
 [[gallery_item]]
 album = "lunchbox"
 image = "http://images.guansong.wang/2019/20191101_Misc/IMG_20191119_222226.jpg@!original"
