@@ -2,7 +2,7 @@
 title = "2019-09 Monthly Selected Photos"
 subtitle = ""
 summary = """
-Selected photos taken in August 2019.
+Selected photos taken in September 2019.
 Taste the Shantou beef hotpot at Shantou.
 """
 
