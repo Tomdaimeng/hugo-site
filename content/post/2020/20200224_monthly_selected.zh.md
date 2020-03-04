@@ -8,7 +8,7 @@ summary = """
 """
 
 date = 2020-02-29T13:16:00+08:00
-lastmod = 2020-02-29T13:16:00+08:00
+lastmod = 2020-03-02T13:13:00+08:00
 draft = false
 math = false
 
@@ -71,7 +71,7 @@ caption = "OK 的早餐。"
 [[gallery_item]]
 album = "animal"
 image = "http://images.guansong.wang//2020/20200101_Misc/IMG_20200116_090233.jpg"
-caption = "小卖点的卷尾巴橘猫，经常在外面逛。它的尾巴伤过，一直是卷起来的。"
+caption = "小卖店的卷尾巴橘猫，经常在外面逛。它的尾巴伤过，一直是卷起来的。"
 [[gallery_item]]
 album = "animal"
 image = "http://images.guansong.wang//2020/20200101_Misc/IMG_20200101_170354.jpg"
