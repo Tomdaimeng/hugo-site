@@ -1,20 +1,20 @@
 +++
-title = "2020-02 空荡荡的世界"
+title = "2020-02 An Isolated World"
 subtitle = ""
 summary = """
-2020 年 02 月照片精选。
-延长的假期结束，返回到空荡荡的深圳。
-“即使明天是世界末日，我也要种下我的苹果树。”
+Selected photos taken in Feburary 2020.
+The prolonged holiday ends, and I return to an isolated city of Shenzhen.
+"Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree."
 """
 
-date = 2020-03-20T13:20:00+08:00
-lastmod = 2020-03-20T13:20:00+08:00
+date = 2020-03-24T13:20:00+08:00
+lastmod = 2020-03-24T13:20:00+08:00
 draft = false
 math = false
 
 authors = ["Butters"]
-tags = ["照片", "2020"]
-categories = ["月度照片精选"]
+tags = ["photo", "2020"]
+categories = ["Monthly Selected Photos"]
 
 [[gallery_item]]
 album = "white"
@@ -179,95 +179,114 @@ caption = "炖了一块很大的牛腱子。"
 
 +++
 
-# 居家
+# Staying at Home
 
-假期延长，每天在家中哪里都不能去。
+The Chinese New Year holiday is prolonged,
+however we have nowhere to go except staying at home.
 
 ## Eva
 
-厨房门口的虎皮兰旁边，是 Eva 最喜欢的地方之一。
-即可以看到屋子里的情况，闻到吃的能最快进入厨房，
-大花盆也提供了藏匿的地方。
+The snake plant (Sansevieria trifasciata) by the kitchen door
+is one of Eva's favorite daily spot.
+From here she can overlook the whole living room,
+enter the kitchen right away when she smells something,
+and hide behind the big plant if she feels odd.
 
 {{< gallery album="eva" >}}
 
-## 白猫
+## White
 
-卧室床上是白猫在白天最喜欢的地方。
-但是妈妈并不允许他到床上去，
-所以每次路过看到他都是在盯着门口看是谁，会不会来赶走他。
+The bed is one of White's favorite daily spot.
+But mother doesn't allow him to stay there,
+so he's always checking who's outside the door
+whenever I pass by.
 
 {{< gallery album="white" >}}
 
-## 二猫同窗
+## Both Cats
 
-白猫还是经常靠近 Eva；Eva 也还是尽量躲开他。
+White still likes to approach Eva;
+well Eva still tries her best to avoid him.
 
 {{< gallery album="twocats" >}}
 
-## 讨食
+## Begging for Food
 
-Eva 每顿饭都要来扒椅子要吃的，白猫只有闻到了鸡肝味道才会跑来。
+Eva comes to mother's chair for food on every meal.
+White only run into the kitchen if he smells chicken liver.
 
 {{< gallery album="beg" >}}
 
-# 疫情生活
+# Life under Pandemic
 
-## 回程飞机
+## Returning Flight
 
-新冠疫情在二月扩大，开工日期一次接一次地延迟。
-考虑到避开回程高峰，我元宵节前一天返回了深圳。
-飞机客舱一半是空的，我一个人占了一排座位。
+The COVID-19 gets worse in Feburary,
+so the date of getting back to work has been postponed again and again.
+Considering that it may be dangerous to travel during peak days,
+I book a flight right before the Lantern Festival back to Shenzhen.
+Half of the cabin is empty and I occupy one row of seats.
 
-小区保安登记了信息就可以进去了。
-白天的五和街道里也空无一人，五和大道上几乎没有车，从没有见过这样的深圳。
+The security of the community registers some information and then lets me in.
+The streets in Wuhe is completely empty,
+and there are barely any passing cars on Wuhe Avenue even in day time.
+I've never seen Shenzhen like this.
 
 {{< gallery album="trip" >}}
 
-## 植物
+## My Plants
 
-家中的植物都还活着，甚至感觉状态比我日常在家时更好了。
+All of my plants at Shenzhen are still alive,
+and they seem even in better shape than when I was taking care of them.
 
 {{< gallery album="plant" >}}
 
-## 疫情生活
+## Living
 
-为了维护爱岗敬业的人设，我还是每天到公司现场去办公，毕竟还能拿到两个口罩。
-我很快适应了空荡的世界，甚至还有点喜欢。
-不管怎样，生活还是要继续。
-“即使明天是世界末日，我也要种下我的苹果树。”（马丁·路德）
+To maintain a hard-working character,
+I still come to the office everyday
+(not only for the daily two face masks).
+I become adapted to the empty world very soon,
+and even like it a little bit.
+No matter what, life still goes on.
+"Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree." - Martin Luther.
 
 {{< gallery album="covid19" >}}
 
-## 食物
+## Food
 
-回程的行李箱被妈妈塞满了吃的东西；
-到了深圳幸好超市还可以买东西，于是趁机吃了很多零食。
-超市的（我喜欢口味的）豆干再一次被我买断货。
+Mother fills my suitcase with all kinds of food.
+Fortunately the supermarkets in Shenzhen are still open,
+so I take the pandemic as an excuse to feed myself bunch of snacks.
+Once again I single-handedly clear the stock of dried toufu in my favorite flavour.
 
 {{< gallery album="food" >}}
 
-## 卷尾巴的橘猫
+## Curl-tailed Orange Tabby
 
-疫情带来了两个出乎意料的缘分，
-其中之一是韩国便利店里的橘猫。
-它是一只散养的猫，尾巴可能受过伤，只有一小截卷起来。
-便利店不开门，它被关在屋里，每天只能坐在窗台上看着外面发呆。
-它非常想出去，每次走近能听到它隔着玻璃叫。
-后来竟认识了我，还没走近就开始叫唤。
+The pandemic brings me two surprising relationships,
+one of which is the orange tabby living in the Korean convenience store.
+It is an outdoor cat, whose tail is probably injured before and keeps curled around.
+The store is closed for days or even a month,
+so it is kept inside and stares outside from the window.
+I can see its eager to go outside, and I hear it meowing loudly throught the glass.
+A couple days later it starts to recognize me,
+and will meow on the sight of me from far away.
 
 {{< gallery album="orange" >}}
 
-## 球衣汇总
+## Basketball Jerseys
 
-有了第一件印着名字的球衣，翻出了还找得到的旧球衣。
-大概离退役也不远了。
+I own a jersey with my name on it for the first time.
+I gether all the old jerseys I can find to take a picture.
+I guess my retirement is not that far away.
 
 {{< gallery album="jersey" >}}
 
-## 练习
+## Practice
 
-有时练到手指麻木，已经感受不到自己是否按在琴弦上了。
-虽然练习得很认真，水平却不怎么样。
+Sometimes I practise until my fingers feel so numb that
+I can't tell if they are pressing the strings or not.
+Even with this effort I still suck at it.
 
 {{< gallery album="guitar" >}}
