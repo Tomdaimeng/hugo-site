@@ -6,21 +6,21 @@
 [en]
   languageCode = "en-us"
   title = "WANG Guansong"
-  copyright = "&copy; 2019 Wang Guansong"
+  copyright = "&copy; 2020 Wang Guansong <a href='http://ln.beian.miit.gov.cn/' target='_blank'>[辽ICP备15012794号]</a>"
   # address = "Booth 3721, Zhongguancun Plaza, Beijing, China"
   # Address
   # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-  address = {street = "New Wuhe Village", city = "Shenzhen", region = "Guangdong", postcode = "58000", country = "P.R. China", country_code = "CN"}
-  directions = "Just yell my name when you are at the street."
+  address = {street = "New Wuhe Village", city = "Shenzhen", region = "Guangdong", postcode = "518000", country = "P.R. China", country_code = "CN"}
+  directions = "Yell my name when you are at the street."
 
 # Uncomment the lines below to configure your website in a second language.
 [zh]
   languageCode = "zh-Hans"
 #  contentDir = "content/zh"
   title = "王冠嵩"
-  copyright = "&copy; 2019 王冠嵩"
+  copyright = "&copy; 2020 王冠嵩 <a href='http://ln.beian.miit.gov.cn/' target='_blank'>[辽ICP备15012794号]</a>"
   # address = "北京中关村广场摊位 3721"
-  address = {street = "五和新村", city = "深圳关外", region = "广东", postcode = "58000", country = "中国", country_code = "CN"}
+  address = {street = "五和新村", city = "深圳关外", region = "广东", postcode = "518000", country = "中国", country_code = "CN"}
   directions = "村头喊我名字。"
 #  [zh.params]
 #    description = "Site description in Chinese..."
